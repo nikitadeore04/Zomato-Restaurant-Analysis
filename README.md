@@ -55,6 +55,3 @@ To analyze Zomato restaurant data and identify useful business insights that can
 Nikita Dipak Deore
 
 
-## 📊 Power BI Dashboard Preview
-
-![Zomato Dashboard](Screenshot%202026-11-24%20110249.png)
