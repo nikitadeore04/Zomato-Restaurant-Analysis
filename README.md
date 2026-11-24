@@ -54,4 +54,6 @@ To analyze Zomato restaurant data and identify useful business insights that can
 
 Nikita Dipak Deore
 
+## 📊 Dashboard Preview
 
+![Zomato Dashboard]("C:\Users\Nikita\OneDrive\Pictures\Saved Pictures\Screenshots\Screenshot 2026-11-24 110249.png")
