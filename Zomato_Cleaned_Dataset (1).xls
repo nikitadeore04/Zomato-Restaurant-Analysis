@@ -1,0 +1,1001 @@
+restaurant_id,name,online_order,book_table,rate,votes,location,rest_type,cuisines,approx_cost(for two people),listed_in(type)
+1,Royal Works 1,Yes,Yes,4.0,47,Indiranagar,Cafe,"South Indian, North Indian, Pizza",400,Dine-out
+2,Taste Palace 2,Yes,Yes,4.1,250,Koramangala,Delivery,"North Indian, Thai",250,Drinks & nightlife
+3,Desi Stop 3,No,No,3.5,43,Koramangala,Quick Bites,"Pizza, Desserts, Biryani",350,Drinks & nightlife
+4,Urban Kitchen 4,Yes,No,4.7,117,MG Road,Cafe,"Fast Food, Italian",300,Delivery
+5,Taste Kitchen 5,Yes,No,3.4,93,MG Road,Cafe,Street Food,400,Dine-out
+6,Wow Kitchen 6,No,Yes,3.4,34,Koramangala,Delivery,Andhra,1000,Pubs and bars
+7,Foodie Express 7,Yes,Yes,3.9,8,BTM Layout,Fine Dining,South Indian,2000,Cafes
+8,Grill Cafe 8,No,Yes,2.6,31,Whitefield,Delivery,Fast Food,350,Cafes
+9,Curry Darbar 9,Yes,No,3.0,74,Koramangala,Delivery,"Biryani, Italian",1000,Pubs and bars
+10,Urban Hub 10,No,No,3.1,13,Electronic City,Fine Dining,Bakery,450,Cafes
+11,Royal Hub 11,Yes,No,4.7,43,Malleshwaram,Dessert Parlour,"Cafe, Biryani, Mughlai",600,Drinks & nightlife
+12,Royal Point 12,No,Yes,3.7,13,BTM Layout,Cafe,"Biryani, Street Food",500,Pubs and bars
+13,Desi Cafe 13,Yes,Yes,3.3,61,MG Road,Cafe,Andhra,250,Desserts
+14,Little Works 14,No,Yes,3.0,79,Indiranagar,Dessert Parlour,"Street Food, Cafe",700,Pubs and bars
+15,Spice Works 15,Yes,No,3.3,40,Malleshwaram,Dessert Parlour,"Fast Food, South Indian, Italian",500,Dine-out
+16,Royal Bistro 16,No,Yes,3.3,348,Whitefield,Casual Dining,Desserts,250,Dine-out
+17,Street Stop 17,Yes,No,3.7,18,Jayanagar,Delivery,Cafe,200,Buffet
+18,Wow Treats 18,Yes,Yes,4.2,16,Indiranagar,Quick Bites,Thai,800,Cafes
+19,Street Point 19,No,Yes,3.8,7,Malleshwaram,Delivery,"Cafe, Desserts, Chinese",400,Drinks & nightlife
+20,Street Point 20,No,No,2.8,66,BTM Layout,Cafe,Biryani,1000,Cafes
+21,Grill Hub 21,Yes,Yes,4.2,64,Koramangala,Cafe,South Indian,450,Drinks & nightlife
+22,Taste Hub 22,No,Yes,3.6,40,Jayanagar,Bakery,"North Indian, Continental, South Indian",200,Cafes
+23,Desi Treats 23,No,Yes,2.7,26,MG Road,Delivery,"Chinese, Pizza",800,Buffet
+24,Foodie Treats 24,No,No,3.4,157,Malleshwaram,Casual Dining,Mughlai,500,Drinks & nightlife
+25,Green Hub 25,No,Yes,3.9,9,HSR Layout,Bakery,"Mughlai, South Indian, North Indian",500,Cafes
+26,Cafe Darbar 26,Yes,Yes,3.9,37,Marathahalli,Cafe,"Chinese, Italian",600,Buffet
+27,Foodie Treats 27,Yes,Yes,3.3,100,BTM Layout,Delivery,"Desserts, Andhra, North Indian",250,Pubs and bars
+28,Foodie Express 28,No,Yes,4.4,138,BTM Layout,Dessert Parlour,"Thai, North Indian",300,Desserts
+29,Green Express 29,No,Yes,3.2,40,HSR Layout,Casual Dining,"Pizza, Bakery, Desserts",1000,Dine-out
+30,Grill Treats 30,Yes,Yes,3.9,144,Marathahalli,Quick Bites,"Desserts, North Indian, Pizza",450,Buffet
+31,Little Stop 31,Yes,Yes,3.4,45,HSR Layout,Food Court,"South Indian, Andhra",300,Buffet
+32,Foodie Cafe 32,Yes,Yes,3.0,16,Electronic City,Fine Dining,"Continental, Street Food",800,Delivery
+33,The Hungry Garden 33,No,Yes,4.2,211,MG Road,Dessert Parlour,Mughlai,1200,Desserts
+34,Cafe Palace 34,Yes,Yes,3.7,148,Electronic City,Cafe,Thai,1500,Buffet
+35,Street Kitchen 35,Yes,No,3.9,28,HSR Layout,Fine Dining,"Continental, Desserts",400,Delivery
+36,Little Stop 36,No,Yes,3.9,254,Marathahalli,Dessert Parlour,Cafe,2000,Drinks & nightlife
+37,Street Kitchen 37,No,Yes,3.7,261,Malleshwaram,Quick Bites,Thai,300,Delivery
+38,Little Cafe 38,No,Yes,2.0,124,Jayanagar,Bakery,Street Food,350,Delivery
+39,Spice House 39,No,No,3.8,40,JP Nagar,Quick Bites,South Indian,1000,Drinks & nightlife
+40,Taste House 40,No,No,3.8,7,Indiranagar,Cafe,Chinese,1200,Drinks & nightlife
+41,Foodie Corner 41,No,Yes,3.6,78,Koramangala,Dessert Parlour,Desserts,200,Delivery
+42,Little Kitchen 42,Yes,Yes,4.7,32,JP Nagar,Food Court,Thai,450,Dine-out
+43,Spice Corner 43,Yes,No,3.2,33,Malleshwaram,Fine Dining,"Chinese, Continental, Thai",1500,Pubs and bars
+44,Royal Darbar 44,Yes,No,4.3,75,Malleshwaram,Cafe,"Bakery, Mughlai",2000,Desserts
+45,Curry Table 45,Yes,Yes,3.4,91,BTM Layout,Fine Dining,Andhra,600,Delivery
+46,Tasty Express 46,Yes,No,3.8,143,Indiranagar,Dessert Parlour,Continental,200,Delivery
+47,Urban Table 47,No,Yes,3.2,39,Jayanagar,Quick Bites,"Desserts, Biryani, Mughlai",2000,Dine-out
+48,Wow Darbar 48,No,No,3.4,12,JP Nagar,Food Court,North Indian,250,Dine-out
+49,Spice Works 49,Yes,No,3.9,70,MG Road,Casual Dining,"South Indian, Biryani",800,Dine-out
+50,Foodie Kitchen 50,Yes,No,3.7,43,Rajajinagar,Fine Dining,"Mughlai, Pizza",1200,Dine-out
+51,Taste Express 51,Yes,No,2.8,35,Rajajinagar,Food Court,Mughlai,2000,Delivery
+52,Foodie Cafe 52,Yes,Yes,3.5,24,MG Road,Quick Bites,"Pizza, Italian",700,Dine-out
+53,The Hungry Hub 53,Yes,No,3.6,81,MG Road,Fine Dining,"Italian, Biryani",700,Desserts
+54,Little Kitchen 54,No,Yes,4.9,65,Jayanagar,Fine Dining,"Cafe, Mughlai",350,Buffet
+55,Royal House 55,Yes,Yes,3.9,50,Koramangala,Delivery,Mughlai,400,Desserts
+56,Street Cafe 56,No,No,2.5,53,Electronic City,Delivery,"Andhra, Bakery",250,Drinks & nightlife
+57,Street Darbar 57,Yes,Yes,3.7,641,Indiranagar,Food Court,"Biryani, Cafe, Thai",350,Cafes
+58,Taste Hub 58,No,Yes,3.6,73,Indiranagar,Bakery,Bakery,1200,Cafes
+59,Grill Stop 59,No,No,3.7,16,Malleshwaram,Food Court,"Mughlai, Desserts",700,Pubs and bars
+60,The Hungry Darbar 60,No,No,4.4,115,HSR Layout,Dessert Parlour,"Cafe, Chinese",1200,Pubs and bars
+61,Urban Works 61,No,No,4.2,21,Jayanagar,Delivery,"Cafe, Mughlai",350,Delivery
+62,Royal Hub 62,Yes,Yes,4.6,13,MG Road,Quick Bites,Fast Food,700,Drinks & nightlife
+63,Taste Treats 63,No,No,4.1,488,MG Road,Casual Dining,South Indian,500,Cafes
+64,Cafe House 64,Yes,No,3.1,30,JP Nagar,Dessert Parlour,"Biryani, Bakery",800,Pubs and bars
+65,Green Express 65,Yes,No,3.8,33,MG Road,Bakery,"Andhra, Thai",500,Buffet
+66,Curry Treats 66,No,Yes,2.7,58,Whitefield,Casual Dining,"Fast Food, Mughlai",1000,Desserts
+67,Royal Stop 67,Yes,No,3.0,87,BTM Layout,Quick Bites,"Street Food, Mughlai",200,Buffet
+68,Tasty Bistro 68,Yes,No,3.1,257,MG Road,Dessert Parlour,Biryani,450,Pubs and bars
+69,Wow Point 69,No,Yes,3.2,39,Koramangala,Fine Dining,"Italian, Andhra",250,Cafes
+70,Green Stop 70,Yes,Yes,4.2,15,Koramangala,Quick Bites,"South Indian, Bakery, Mughlai",200,Cafes
+71,Cafe Works 71,Yes,Yes,3.8,201,Jayanagar,Fine Dining,Cafe,1000,Cafes
+72,The Hungry Kitchen 72,Yes,Yes,3.7,65,Electronic City,Casual Dining,"Street Food, Pizza",1200,Delivery
+73,Grill Works 73,Yes,Yes,3.9,119,Rajajinagar,Delivery,"Mughlai, Biryani",500,Buffet
+74,Tasty Point 74,Yes,Yes,2.9,14,MG Road,Fine Dining,"Bakery, Italian, Mughlai",800,Buffet
+75,Urban Garden 75,No,No,4.0,73,JP Nagar,Bakery,"Mughlai, Fast Food",200,Drinks & nightlife
+76,Cafe Garden 76,No,No,3.9,77,Malleshwaram,Dessert Parlour,Biryani,300,Delivery
+77,Green Darbar 77,No,No,3.3,68,BTM Layout,Food Court,Andhra,250,Delivery
+78,Cafe Hub 78,No,Yes,3.9,26,JP Nagar,Dessert Parlour,Cafe,2000,Delivery
+79,Taste Hub 79,No,Yes,4.9,87,Indiranagar,Delivery,Thai,800,Drinks & nightlife
+80,Little Works 80,Yes,No,2.9,105,BTM Layout,Bakery,"Cafe, Desserts",1500,Pubs and bars
+81,Wow Hub 81,Yes,No,3.1,119,Jayanagar,Fine Dining,Andhra,400,Desserts
+82,Wow Treats 82,No,No,4.5,24,Jayanagar,Dessert Parlour,"Desserts, Fast Food",500,Delivery
+83,Urban Works 83,Yes,No,4.3,82,Marathahalli,Quick Bites,South Indian,1200,Cafes
+84,Urban Stop 84,No,No,4.2,363,HSR Layout,Dessert Parlour,Pizza,600,Cafes
+85,The Hungry House 85,Yes,Yes,3.5,25,Koramangala,Dessert Parlour,Chinese,400,Drinks & nightlife
+86,Curry House 86,No,Yes,3.1,24,Electronic City,Dessert Parlour,Mughlai,2000,Desserts
+87,Curry Treats 87,Yes,No,3.6,76,Indiranagar,Cafe,"Cafe, Fast Food",300,Desserts
+88,Royal Darbar 88,Yes,Yes,3.9,124,Electronic City,Dessert Parlour,"South Indian, Street Food",1000,Buffet
+89,Desi Point 89,No,Yes,3.7,233,MG Road,Bakery,South Indian,700,Desserts
+90,Grill Palace 90,No,No,3.5,828,Koramangala,Cafe,Andhra,800,Pubs and bars
+91,Royal Hub 91,No,Yes,4.1,23,Whitefield,Cafe,Mughlai,350,Cafes
+92,Spice Hub 92,No,No,3.0,88,Jayanagar,Dessert Parlour,Biryani,600,Drinks & nightlife
+93,Foodie Kitchen 93,No,Yes,3.6,111,Marathahalli,Delivery,"South Indian, Mughlai",350,Drinks & nightlife
+94,Spice Corner 94,Yes,Yes,4.0,50,Jayanagar,Dessert Parlour,Thai,400,Desserts
+95,The Hungry Point 95,No,No,3.1,12,Marathahalli,Bakery,Cafe,1200,Desserts
+96,Grill Express 96,No,No,3.4,128,Koramangala,Cafe,Street Food,200,Cafes
+97,Grill House 97,Yes,No,3.8,15,Whitefield,Bakery,"Andhra, Thai, Street Food",800,Dine-out
+98,Urban Treats 98,No,No,3.8,80,JP Nagar,Food Court,"Cafe, Italian, Chinese",800,Delivery
+99,Foodie Works 99,Yes,No,3.1,63,BTM Layout,Dessert Parlour,Mughlai,250,Drinks & nightlife
+100,Urban Bistro 100,Yes,No,3.7,17,Jayanagar,Fine Dining,Andhra,700,Buffet
+101,Foodie House 101,Yes,No,3.9,95,HSR Layout,Fine Dining,"Andhra, Desserts",2000,Dine-out
+102,The Hungry Point 102,Yes,Yes,4.4,156,Whitefield,Dessert Parlour,"Mughlai, Cafe",1500,Desserts
+103,The Hungry Point 103,Yes,Yes,2.8,21,Koramangala,Food Court,"Cafe, South Indian, North Indian",1000,Buffet
+104,Little Stop 104,No,Yes,4.0,91,Whitefield,Bakery,Andhra,250,Drinks & nightlife
+105,Curry Treats 105,No,No,4.0,2572,BTM Layout,Delivery,Desserts,1200,Desserts
+106,The Hungry Darbar 106,Yes,Yes,4.1,169,MG Road,Fine Dining,"Chinese, Biryani",350,Pubs and bars
+107,Curry Palace 107,No,No,4.3,104,Electronic City,Bakery,"Italian, Andhra",200,Pubs and bars
+108,Tasty Point 108,No,No,3.5,116,Marathahalli,Food Court,Cafe,700,Desserts
+109,Green Stop 109,Yes,No,3.2,43,MG Road,Casual Dining,Andhra,350,Delivery
+110,Cafe House 110,No,Yes,3.4,59,Whitefield,Fine Dining,"Cafe, Pizza, Bakery",500,Pubs and bars
+111,Taste Table 111,No,Yes,4.9,8,BTM Layout,Casual Dining,Andhra,2000,Drinks & nightlife
+112,Cafe Darbar 112,Yes,Yes,4.1,10,Jayanagar,Fine Dining,Biryani,2000,Dine-out
+113,Tasty Cafe 113,No,No,3.4,162,Malleshwaram,Bakery,"Biryani, Mughlai, South Indian",2000,Pubs and bars
+114,Green Works 114,Yes,No,3.7,18,Indiranagar,Food Court,"North Indian, Street Food",250,Buffet
+115,Street House 115,Yes,No,3.2,107,Koramangala,Fine Dining,"Pizza, Andhra, South Indian",600,Pubs and bars
+116,Royal Hub 116,No,No,3.2,67,Marathahalli,Food Court,Italian,450,Dine-out
+117,Grill Cafe 117,Yes,No,3.7,28,HSR Layout,Bakery,"Bakery, Chinese, Andhra",300,Dine-out
+118,The Hungry Cafe 118,No,No,4.9,102,Koramangala,Bakery,Continental,600,Delivery
+119,Little Garden 119,No,No,2.4,65,Malleshwaram,Dessert Parlour,"Desserts, Chinese, South Indian",600,Desserts
+120,Green Garden 120,No,Yes,3.3,128,Electronic City,Fine Dining,Continental,500,Dine-out
+121,The Hungry House 121,Yes,No,3.2,48,Electronic City,Casual Dining,Pizza,400,Dine-out
+122,Green Cafe 122,Yes,No,4.0,129,HSR Layout,Dessert Parlour,"Cafe, Andhra, Italian",1500,Drinks & nightlife
+123,Street Cafe 123,Yes,Yes,2.9,39,Rajajinagar,Casual Dining,"Bakery, Mughlai, Andhra",2000,Delivery
+124,Street Express 124,Yes,Yes,3.4,28,JP Nagar,Food Court,"North Indian, Street Food",450,Cafes
+125,Curry Corner 125,No,No,4.8,81,Jayanagar,Bakery,Chinese,1500,Pubs and bars
+126,Cafe Kitchen 126,No,Yes,2.9,136,Whitefield,Delivery,Pizza,2000,Pubs and bars
+127,Desi Garden 127,No,Yes,4.9,153,Koramangala,Dessert Parlour,"Pizza, Mughlai, Biryani",2000,Dine-out
+128,Curry Cafe 128,No,No,2.7,33,JP Nagar,Cafe,Cafe,450,Drinks & nightlife
+129,Little Kitchen 129,No,Yes,4.5,26,Rajajinagar,Bakery,Cafe,200,Drinks & nightlife
+130,Spice House 130,Yes,Yes,4.0,118,MG Road,Bakery,Mughlai,500,Buffet
+131,Cafe Bistro 131,Yes,No,3.1,51,Rajajinagar,Food Court,Continental,700,Dine-out
+132,Grill Garden 132,Yes,No,1.8,19,Jayanagar,Casual Dining,"Pizza, Chinese, Biryani",1000,Drinks & nightlife
+133,Curry Bistro 133,No,Yes,3.5,15,Indiranagar,Fine Dining,Continental,600,Dine-out
+134,Curry Stop 134,Yes,Yes,4.8,13,BTM Layout,Cafe,"Fast Food, North Indian, Biryani",400,Drinks & nightlife
+135,Desi Bistro 135,Yes,Yes,3.4,62,HSR Layout,Quick Bites,Mughlai,1000,Pubs and bars
+136,Curry Stop 136,Yes,Yes,4.6,12,HSR Layout,Fine Dining,"Continental, South Indian",2000,Pubs and bars
+137,Curry Corner 137,Yes,No,4.5,55,Whitefield,Dessert Parlour,Bakery,800,Pubs and bars
+138,Spice Bistro 138,Yes,Yes,3.1,86,HSR Layout,Fine Dining,South Indian,1000,Buffet
+139,Taste Kitchen 139,Yes,No,3.8,29,Malleshwaram,Cafe,Italian,200,Desserts
+140,Taste Hub 140,Yes,No,3.7,37,Electronic City,Casual Dining,"Bakery, Fast Food",700,Drinks & nightlife
+141,Cafe Stop 141,Yes,Yes,3.8,105,MG Road,Food Court,"Desserts, Italian, Cafe",1000,Drinks & nightlife
+142,Street Kitchen 142,No,Yes,4.7,15,JP Nagar,Quick Bites,Cafe,1200,Buffet
+143,Grill Point 143,No,No,4.9,7,Jayanagar,Bakery,Italian,800,Dine-out
+144,Foodie Treats 144,Yes,Yes,3.6,98,HSR Layout,Food Court,"Biryani, South Indian",1500,Delivery
+145,Foodie Bistro 145,Yes,No,3.9,29,Rajajinagar,Dessert Parlour,"Biryani, Thai",1200,Delivery
+146,Curry Kitchen 146,Yes,Yes,3.6,33,Indiranagar,Food Court,Mughlai,600,Buffet
+147,Little Kitchen 147,Yes,No,3.3,127,MG Road,Fine Dining,"Pizza, Fast Food, Bakery",300,Pubs and bars
+148,Tasty Kitchen 148,No,No,3.9,27,Electronic City,Delivery,"Bakery, Biryani, Pizza",200,Cafes
+149,Desi Express 149,No,Yes,4.3,74,Electronic City,Delivery,"Cafe, Continental, South Indian",450,Pubs and bars
+150,Spice Corner 150,Yes,No,4.2,102,Jayanagar,Dessert Parlour,"Andhra, Desserts",1500,Delivery
+151,Urban Corner 151,Yes,No,3.2,31,Malleshwaram,Casual Dining,North Indian,300,Buffet
+152,Royal Bistro 152,No,No,4.2,100,Jayanagar,Fine Dining,"Desserts, Continental, Biryani",500,Pubs and bars
+153,Desi Palace 153,Yes,Yes,3.7,61,Koramangala,Cafe,"Street Food, South Indian",200,Delivery
+154,The Hungry Hub 154,No,No,4.5,30,Marathahalli,Cafe,"Mughlai, Biryani",600,Delivery
+155,Spice Hub 155,No,No,4.1,44,MG Road,Casual Dining,"South Indian, Italian",1000,Buffet
+156,The Hungry Bistro 156,Yes,No,3.6,163,Indiranagar,Casual Dining,Italian,350,Desserts
+157,Urban Garden 157,Yes,No,4.2,123,Malleshwaram,Casual Dining,"Biryani, Chinese, Andhra",500,Desserts
+158,Grill Garden 158,No,No,4.5,55,Malleshwaram,Food Court,Cafe,250,Delivery
+159,Desi Palace 159,No,Yes,4.1,40,BTM Layout,Fine Dining,Biryani,200,Buffet
+160,Taste Kitchen 160,No,No,3.9,47,MG Road,Dessert Parlour,"Andhra, South Indian",350,Drinks & nightlife
+161,Taste Cafe 161,Yes,Yes,3.8,99,Indiranagar,Delivery,Continental,450,Pubs and bars
+162,Urban Corner 162,Yes,Yes,3.2,442,Jayanagar,Delivery,Fast Food,1200,Cafes
+163,Desi Cafe 163,Yes,Yes,3.0,16,BTM Layout,Bakery,"Chinese, Bakery",1500,Pubs and bars
+164,Royal Treats 164,No,No,4.5,120,Indiranagar,Bakery,"Bakery, Street Food",600,Desserts
+165,Taste Kitchen 165,Yes,No,4.1,102,Jayanagar,Bakery,"Italian, Bakery, Thai",800,Desserts
+166,Little Stop 166,No,Yes,3.7,22,Indiranagar,Food Court,North Indian,450,Desserts
+167,Street Darbar 167,Yes,No,3.7,27,Electronic City,Delivery,"Desserts, Bakery",1200,Delivery
+168,Urban Darbar 168,Yes,No,4.3,47,JP Nagar,Cafe,"Cafe, Desserts",300,Dine-out
+169,Taste Point 169,No,No,3.2,39,Electronic City,Quick Bites,"Chinese, North Indian, Continental",1200,Delivery
+170,Desi Bistro 170,No,No,4.0,31,Rajajinagar,Casual Dining,Thai,400,Pubs and bars
+171,The Hungry Express 171,Yes,No,3.2,69,Malleshwaram,Quick Bites,"Mughlai, Fast Food, South Indian",450,Delivery
+172,The Hungry Cafe 172,Yes,No,3.7,32,Malleshwaram,Food Court,Street Food,1000,Cafes
+173,Curry Corner 173,No,No,3.4,68,Rajajinagar,Cafe,"Pizza, South Indian",400,Drinks & nightlife
+174,Royal Hub 174,No,No,2.8,13,JP Nagar,Bakery,Andhra,200,Cafes
+175,Curry Darbar 175,Yes,No,3.2,44,Indiranagar,Casual Dining,Chinese,300,Drinks & nightlife
+176,Royal Corner 176,Yes,No,3.9,238,Whitefield,Quick Bites,Thai,1500,Drinks & nightlife
+177,Grill Express 177,Yes,No,4.3,46,Malleshwaram,Bakery,"North Indian, Biryani",450,Cafes
+178,Tasty Cafe 178,No,Yes,3.7,20,Electronic City,Bakery,"Continental, Italian",1500,Desserts
+179,Curry Hub 179,No,Yes,3.7,40,Electronic City,Quick Bites,Bakery,500,Pubs and bars
+180,Taste Table 180,No,No,3.9,23,Indiranagar,Cafe,North Indian,1000,Delivery
+181,Street Point 181,No,No,4.0,252,Whitefield,Food Court,Bakery,300,Buffet
+182,Foodie House 182,No,Yes,3.6,81,MG Road,Fine Dining,Andhra,600,Cafes
+183,Street Kitchen 183,Yes,No,4.1,36,Malleshwaram,Fine Dining,"South Indian, Fast Food",350,Pubs and bars
+184,Wow Stop 184,No,No,3.8,55,Whitefield,Bakery,Chinese,200,Desserts
+185,Curry Corner 185,No,Yes,3.8,25,Marathahalli,Food Court,"North Indian, South Indian",200,Buffet
+186,Green Garden 186,Yes,Yes,3.7,89,Rajajinagar,Bakery,Continental,400,Buffet
+187,Wow Corner 187,Yes,Yes,4.6,142,Jayanagar,Food Court,Andhra,600,Buffet
+188,Little Cafe 188,No,Yes,4.9,25,Indiranagar,Fine Dining,"Fast Food, Continental",800,Buffet
+189,Curry Treats 189,Yes,No,4.3,65,Koramangala,Food Court,"Desserts, Thai",1500,Delivery
+190,Tasty Hub 190,No,Yes,4.9,24,Malleshwaram,Cafe,Pizza,200,Pubs and bars
+191,Tasty Point 191,Yes,Yes,3.2,29,JP Nagar,Quick Bites,"Pizza, Bakery",450,Pubs and bars
+192,Urban Works 192,Yes,Yes,2.3,32,BTM Layout,Casual Dining,"Cafe, Pizza, Thai",1000,Delivery
+193,Tasty Table 193,Yes,Yes,3.2,63,Jayanagar,Food Court,North Indian,1500,Pubs and bars
+194,Tasty Stop 194,Yes,No,3.9,356,Koramangala,Fine Dining,"Cafe, Italian",200,Delivery
+195,Wow Treats 195,No,No,4.3,30,MG Road,Fine Dining,Bakery,600,Cafes
+196,Wow Garden 196,No,Yes,3.1,89,Indiranagar,Food Court,"Pizza, Cafe",450,Dine-out
+197,Urban Bistro 197,No,Yes,2.8,340,Rajajinagar,Dessert Parlour,Desserts,400,Delivery
+198,Tasty Treats 198,Yes,No,4.5,34,Koramangala,Fine Dining,"Street Food, Pizza",500,Dine-out
+199,Little Cafe 199,Yes,Yes,2.6,211,MG Road,Fine Dining,"Italian, Mughlai",1500,Dine-out
+200,Royal Kitchen 200,No,Yes,3.6,188,HSR Layout,Fine Dining,"Mughlai, Chinese, North Indian",300,Delivery
+201,Tasty Bistro 201,Yes,No,2.7,29,BTM Layout,Cafe,"Street Food, North Indian",800,Dine-out
+202,Little Express 202,No,No,3.7,57,HSR Layout,Cafe,Desserts,450,Buffet
+203,Desi Express 203,Yes,No,3.4,101,Malleshwaram,Bakery,"Chinese, Cafe, Desserts",500,Cafes
+204,Royal Stop 204,Yes,Yes,3.0,47,Indiranagar,Bakery,"Italian, Pizza",600,Cafes
+205,Wow Kitchen 205,No,No,3.8,91,Marathahalli,Dessert Parlour,"Cafe, South Indian, Bakery",1000,Delivery
+206,Taste Hub 206,Yes,No,4.2,17,Indiranagar,Delivery,Pizza,1200,Pubs and bars
+207,Tasty Point 207,No,Yes,2.7,195,Electronic City,Fine Dining,Continental,1500,Desserts
+208,Foodie Works 208,Yes,No,3.9,25,Malleshwaram,Bakery,"Chinese, Street Food",250,Dine-out
+209,Tasty Cafe 209,Yes,Yes,4.7,61,Indiranagar,Bakery,"Bakery, Biryani",2000,Desserts
+210,Foodie Point 210,Yes,Yes,4.5,58,Koramangala,Cafe,"Desserts, Fast Food, Chinese",2000,Dine-out
+211,Street Works 211,Yes,No,4.9,315,HSR Layout,Fine Dining,Italian,300,Dine-out
+212,Little Point 212,No,Yes,3.5,144,Jayanagar,Quick Bites,Andhra,250,Drinks & nightlife
+213,Grill Palace 213,Yes,Yes,4.1,214,Whitefield,Quick Bites,Street Food,700,Drinks & nightlife
+214,Urban House 214,Yes,Yes,3.1,108,Rajajinagar,Dessert Parlour,"Pizza, Street Food",450,Drinks & nightlife
+215,Cafe Table 215,No,Yes,4.4,9,Rajajinagar,Dessert Parlour,Bakery,800,Drinks & nightlife
+216,Cafe Kitchen 216,No,No,2.9,7,Malleshwaram,Casual Dining,Cafe,350,Cafes
+217,Grill Corner 217,Yes,No,3.5,111,JP Nagar,Fine Dining,"Biryani, Cafe",600,Drinks & nightlife
+218,Tasty Hub 218,No,Yes,4.7,58,BTM Layout,Cafe,Biryani,300,Delivery
+219,Foodie Stop 219,Yes,No,4.8,13,Electronic City,Food Court,"Continental, Chinese",250,Cafes
+220,Desi Corner 220,No,Yes,2.6,51,BTM Layout,Bakery,Andhra,450,Desserts
+221,Taste Treats 221,Yes,No,3.9,52,HSR Layout,Delivery,Cafe,200,Dine-out
+222,Grill Table 222,No,No,2.4,49,Rajajinagar,Bakery,North Indian,200,Delivery
+223,Street Express 223,No,Yes,2.9,106,Malleshwaram,Fine Dining,Andhra,250,Pubs and bars
+224,Tasty Point 224,Yes,Yes,3.9,21,Jayanagar,Cafe,"Fast Food, North Indian",500,Desserts
+225,Royal Kitchen 225,No,Yes,3.4,18,MG Road,Fine Dining,"Cafe, Bakery",700,Pubs and bars
+226,Grill Point 226,Yes,Yes,3.7,141,MG Road,Casual Dining,Desserts,450,Buffet
+227,Taste Treats 227,No,No,3.1,90,Whitefield,Quick Bites,Chinese,1200,Delivery
+228,Taste Stop 228,No,No,3.4,24,Marathahalli,Bakery,"Fast Food, Chinese",500,Drinks & nightlife
+229,Tasty Cafe 229,Yes,No,3.6,19,Indiranagar,Food Court,"Italian, Cafe",2000,Dine-out
+230,The Hungry Cafe 230,Yes,No,3.3,16,Electronic City,Delivery,Bakery,1200,Drinks & nightlife
+231,Royal Stop 231,Yes,No,4.9,56,Rajajinagar,Delivery,Street Food,600,Buffet
+232,Tasty Garden 232,Yes,No,3.2,67,Whitefield,Food Court,"Pizza, South Indian",350,Drinks & nightlife
+233,Wow Corner 233,No,Yes,3.6,43,Marathahalli,Delivery,Biryani,700,Dine-out
+234,Royal Treats 234,No,No,4.1,116,Marathahalli,Fine Dining,Mughlai,600,Dine-out
+235,Green Hub 235,No,No,3.4,30,Jayanagar,Dessert Parlour,Mughlai,1500,Cafes
+236,Tasty Treats 236,Yes,No,3.5,5,JP Nagar,Dessert Parlour,Bakery,400,Delivery
+237,Curry Bistro 237,No,No,3.7,214,Whitefield,Dessert Parlour,Street Food,1000,Buffet
+238,Little Express 238,No,No,4.8,42,Malleshwaram,Bakery,Pizza,250,Cafes
+239,Royal Kitchen 239,No,No,4.1,74,Electronic City,Delivery,Andhra,700,Cafes
+240,Spice Kitchen 240,Yes,Yes,4.9,167,MG Road,Fine Dining,Mughlai,700,Drinks & nightlife
+241,Taste Table 241,Yes,Yes,3.6,20,Whitefield,Food Court,"South Indian, Mughlai",1500,Drinks & nightlife
+242,The Hungry Cafe 242,No,No,2.7,66,Koramangala,Cafe,"Cafe, Mughlai",350,Drinks & nightlife
+243,Foodie Table 243,Yes,Yes,3.7,13,Whitefield,Casual Dining,"Continental, Desserts",1200,Pubs and bars
+244,Spice Express 244,No,Yes,3.3,18,Electronic City,Cafe,"Bakery, Cafe",300,Delivery
+245,Curry Point 245,No,Yes,4.8,131,BTM Layout,Dessert Parlour,Cafe,1000,Cafes
+246,Wow Corner 246,No,No,3.7,239,Koramangala,Fine Dining,Fast Food,300,Pubs and bars
+247,Grill Stop 247,Yes,Yes,3.8,23,Rajajinagar,Food Court,Street Food,1000,Pubs and bars
+248,Royal Corner 248,No,Yes,4.7,93,MG Road,Fine Dining,"Desserts, Fast Food",250,Cafes
+249,Desi Express 249,Yes,No,3.0,45,JP Nagar,Dessert Parlour,Italian,500,Dine-out
+250,Spice Cafe 250,No,Yes,3.1,13,Indiranagar,Bakery,"Street Food, North Indian, Italian",1000,Delivery
+251,Little Table 251,No,Yes,4.3,368,Jayanagar,Fine Dining,Biryani,1000,Dine-out
+252,Cafe Works 252,No,Yes,2.8,95,Electronic City,Fine Dining,Continental,300,Desserts
+253,Little Darbar 253,Yes,Yes,3.3,33,Electronic City,Cafe,"Desserts, Cafe, Bakery",700,Dine-out
+254,Spice Stop 254,Yes,Yes,3.3,23,Marathahalli,Delivery,"Desserts, Pizza",450,Dine-out
+255,Little Hub 255,No,Yes,3.7,23,Malleshwaram,Bakery,"Chinese, Thai",450,Buffet
+256,Taste Garden 256,No,Yes,3.9,51,BTM Layout,Casual Dining,"Cafe, Bakery",200,Dine-out
+257,The Hungry Stop 257,Yes,No,3.5,22,Koramangala,Delivery,"Mughlai, Bakery",400,Dine-out
+258,Taste House 258,No,Yes,3.3,116,Indiranagar,Bakery,North Indian,500,Buffet
+259,Tasty Table 259,Yes,No,4.0,20,MG Road,Bakery,Biryani,300,Pubs and bars
+260,Urban Corner 260,Yes,No,3.8,115,Marathahalli,Food Court,"Biryani, South Indian",1000,Dine-out
+261,The Hungry Treats 261,Yes,Yes,2.6,94,Rajajinagar,Food Court,Pizza,350,Dine-out
+262,Royal Express 262,No,No,3.3,96,HSR Layout,Cafe,"Andhra, Continental",350,Buffet
+263,Urban Kitchen 263,Yes,Yes,3.2,8,Electronic City,Casual Dining,"Biryani, Street Food, Bakery",200,Desserts
+264,Wow House 264,Yes,Yes,2.6,57,MG Road,Bakery,"Mughlai, Pizza",2000,Cafes
+265,Taste Express 265,Yes,Yes,3.9,22,HSR Layout,Fine Dining,"Continental, Bakery",2000,Dine-out
+266,The Hungry Table 266,No,Yes,4.1,10,Whitefield,Delivery,"Bakery, Mughlai",2000,Desserts
+267,Taste Treats 267,Yes,No,3.7,16,Koramangala,Fine Dining,Italian,200,Drinks & nightlife
+268,Royal Express 268,No,No,3.3,57,MG Road,Quick Bites,"Biryani, Bakery, Desserts",450,Pubs and bars
+269,Curry Works 269,Yes,No,3.1,37,Whitefield,Bakery,"Cafe, Continental",2000,Buffet
+270,Green Express 270,Yes,No,4.4,30,HSR Layout,Fine Dining,"Biryani, Thai",700,Drinks & nightlife
+271,Taste Works 271,No,Yes,4.2,17,HSR Layout,Casual Dining,Thai,600,Delivery
+272,Green Darbar 272,Yes,Yes,4.0,230,Electronic City,Delivery,"Mughlai, Street Food",800,Desserts
+273,Green Table 273,No,Yes,2.1,24,HSR Layout,Cafe,Andhra,450,Drinks & nightlife
+274,Street Hub 274,Yes,No,4.1,44,Marathahalli,Fine Dining,"Thai, Continental",1200,Pubs and bars
+275,The Hungry Bistro 275,No,No,3.9,29,Marathahalli,Bakery,Biryani,600,Desserts
+276,Street Hub 276,No,No,3.8,46,JP Nagar,Fine Dining,Bakery,1200,Desserts
+277,Spice Express 277,Yes,Yes,4.5,70,Marathahalli,Food Court,Street Food,600,Delivery
+278,Grill Stop 278,Yes,No,3.9,36,HSR Layout,Bakery,Continental,450,Dine-out
+279,Cafe Corner 279,No,No,3.4,35,Malleshwaram,Fine Dining,"Mughlai, Fast Food, Italian",1500,Cafes
+280,Street Table 280,No,Yes,4.0,35,Marathahalli,Casual Dining,Pizza,700,Dine-out
+281,Desi House 281,Yes,Yes,3.9,435,MG Road,Quick Bites,Andhra,2000,Pubs and bars
+282,Taste Treats 282,Yes,Yes,4.3,39,JP Nagar,Casual Dining,"Continental, South Indian, Pizza",300,Dine-out
+283,Spice Point 283,No,Yes,4.5,36,Marathahalli,Food Court,"Mughlai, Street Food, Cafe",1000,Buffet
+284,Spice Point 284,No,No,2.4,19,Malleshwaram,Food Court,Desserts,1200,Pubs and bars
+285,Green Palace 285,Yes,Yes,2.5,38,Marathahalli,Dessert Parlour,South Indian,250,Pubs and bars
+286,Tasty Garden 286,No,Yes,3.7,291,BTM Layout,Delivery,Italian,1500,Drinks & nightlife
+287,Urban Garden 287,Yes,Yes,3.9,43,MG Road,Food Court,Italian,1000,Dine-out
+288,Cafe Stop 288,Yes,Yes,4.2,5,MG Road,Fine Dining,"North Indian, Mughlai",200,Dine-out
+289,Green Table 289,Yes,Yes,3.9,118,Malleshwaram,Bakery,Thai,700,Delivery
+290,Royal Table 290,No,Yes,2.7,171,JP Nagar,Casual Dining,Thai,250,Cafes
+291,The Hungry Corner 291,No,Yes,3.9,36,Electronic City,Delivery,"Chinese, Bakery",2000,Dine-out
+292,Desi Works 292,No,Yes,4.1,528,Malleshwaram,Cafe,"Mughlai, Desserts",450,Dine-out
+293,Tasty Palace 293,Yes,Yes,3.8,69,Electronic City,Food Court,"Fast Food, North Indian, South Indian",500,Pubs and bars
+294,Cafe Hub 294,No,No,3.4,23,JP Nagar,Food Court,North Indian,1000,Desserts
+295,Desi Palace 295,No,Yes,4.2,23,Jayanagar,Delivery,Mughlai,800,Drinks & nightlife
+296,Wow Darbar 296,Yes,No,3.7,33,Rajajinagar,Quick Bites,South Indian,400,Drinks & nightlife
+297,The Hungry Treats 297,Yes,Yes,4.0,76,JP Nagar,Dessert Parlour,"Fast Food, Thai",250,Buffet
+298,Taste Point 298,No,No,4.4,32,Marathahalli,Food Court,South Indian,300,Buffet
+299,Curry Garden 299,Yes,No,3.5,20,Koramangala,Dessert Parlour,South Indian,450,Desserts
+300,Little Garden 300,Yes,Yes,3.4,79,Whitefield,Quick Bites,"Bakery, South Indian",1200,Delivery
+301,Royal Garden 301,Yes,Yes,4.2,21,Jayanagar,Food Court,Italian,600,Delivery
+302,Wow Cafe 302,No,Yes,4.3,211,BTM Layout,Delivery,"Bakery, South Indian",450,Desserts
+303,Tasty Stop 303,Yes,No,4.0,356,Electronic City,Food Court,Chinese,400,Pubs and bars
+304,The Hungry Bistro 304,No,Yes,3.2,15,Electronic City,Delivery,Cafe,450,Desserts
+305,Wow Works 305,No,No,3.7,243,Rajajinagar,Bakery,Chinese,500,Dine-out
+306,Tasty Kitchen 306,No,No,4.1,51,Electronic City,Delivery,Fast Food,500,Dine-out
+307,Wow Hub 307,Yes,No,3.9,17,BTM Layout,Dessert Parlour,"Chinese, Mughlai",1500,Pubs and bars
+308,Royal Cafe 308,No,No,4.9,62,Jayanagar,Delivery,"South Indian, Andhra, Bakery",1500,Delivery
+309,Cafe Palace 309,No,Yes,3.8,112,BTM Layout,Food Court,"Chinese, Pizza, Biryani",1500,Dine-out
+310,Desi Bistro 310,No,Yes,4.0,68,Malleshwaram,Cafe,"Thai, Andhra",1200,Buffet
+311,Little Palace 311,No,Yes,3.2,87,Koramangala,Food Court,Mughlai,1000,Pubs and bars
+312,Urban Express 312,Yes,Yes,4.9,209,HSR Layout,Delivery,Bakery,500,Desserts
+313,Spice Treats 313,Yes,No,4.7,32,Indiranagar,Dessert Parlour,Biryani,600,Desserts
+314,The Hungry Bistro 314,Yes,No,3.1,48,BTM Layout,Delivery,South Indian,2000,Dine-out
+315,Tasty Kitchen 315,No,No,3.7,163,Jayanagar,Casual Dining,"Fast Food, Cafe",250,Pubs and bars
+316,Street Works 316,Yes,Yes,2.6,252,HSR Layout,Quick Bites,"South Indian, North Indian, Fast Food",1000,Dine-out
+317,Green Darbar 317,No,No,3.6,35,MG Road,Quick Bites,Fast Food,700,Cafes
+318,Grill Garden 318,Yes,No,3.0,10,MG Road,Casual Dining,"Mughlai, Biryani, Andhra",200,Drinks & nightlife
+319,Desi Stop 319,Yes,Yes,4.2,58,Marathahalli,Quick Bites,Continental,400,Delivery
+320,Little Stop 320,Yes,No,2.9,14,BTM Layout,Fine Dining,Continental,600,Dine-out
+321,Tasty Stop 321,Yes,No,3.5,289,BTM Layout,Quick Bites,"Street Food, Biryani",800,Pubs and bars
+322,Tasty Kitchen 322,Yes,Yes,3.5,12,HSR Layout,Dessert Parlour,"Pizza, Bakery, Italian",800,Buffet
+323,Foodie Palace 323,Yes,No,3.5,41,Whitefield,Food Court,Fast Food,1200,Desserts
+324,Cafe Express 324,Yes,Yes,1.9,51,MG Road,Quick Bites,Cafe,600,Delivery
+325,Cafe Corner 325,No,Yes,3.5,109,HSR Layout,Food Court,"Street Food, North Indian",2000,Dine-out
+326,Wow Stop 326,No,No,4.9,168,BTM Layout,Bakery,"Mughlai, Cafe",500,Cafes
+327,Spice Express 327,Yes,No,3.5,18,HSR Layout,Dessert Parlour,Street Food,200,Cafes
+328,Grill Kitchen 328,No,Yes,4.9,57,Jayanagar,Fine Dining,"Street Food, Pizza",1500,Dine-out
+329,Foodie Kitchen 329,No,Yes,3.7,53,Malleshwaram,Delivery,Bakery,1200,Delivery
+330,Cafe Stop 330,No,Yes,3.8,47,Indiranagar,Delivery,Cafe,400,Cafes
+331,Grill Corner 331,No,Yes,3.3,31,HSR Layout,Delivery,"Street Food, Pizza, Fast Food",2000,Pubs and bars
+332,Tasty Works 332,No,Yes,3.7,31,Jayanagar,Dessert Parlour,Street Food,450,Dine-out
+333,Desi Darbar 333,Yes,Yes,3.2,60,MG Road,Casual Dining,Andhra,700,Delivery
+334,Curry Hub 334,Yes,No,3.5,245,Rajajinagar,Food Court,"Chinese, Pizza, Thai",350,Desserts
+335,Foodie Treats 335,No,No,2.0,162,Indiranagar,Cafe,Street Food,1000,Desserts
+336,Cafe Bistro 336,No,No,4.5,6,Electronic City,Casual Dining,"Pizza, Italian",1200,Pubs and bars
+337,Desi Point 337,No,Yes,3.5,37,MG Road,Delivery,"South Indian, Pizza, Cafe",1000,Desserts
+338,Tasty Point 338,No,No,2.8,25,Electronic City,Quick Bites,Cafe,400,Dine-out
+339,Urban Cafe 339,Yes,Yes,3.0,314,BTM Layout,Casual Dining,"Bakery, Fast Food",1000,Buffet
+340,Green Works 340,Yes,No,4.3,194,Whitefield,Dessert Parlour,Cafe,600,Cafes
+341,Urban Bistro 341,No,No,4.2,17,Rajajinagar,Quick Bites,South Indian,1000,Buffet
+342,Little Kitchen 342,Yes,No,3.4,89,Malleshwaram,Cafe,"Mughlai, Italian",1200,Buffet
+343,Taste Cafe 343,Yes,Yes,2.9,111,BTM Layout,Casual Dining,Cafe,250,Buffet
+344,Cafe Kitchen 344,No,Yes,3.5,37,HSR Layout,Food Court,"Fast Food, Andhra, South Indian",2000,Buffet
+345,Royal Garden 345,No,No,4.2,85,Whitefield,Quick Bites,"Bakery, South Indian, Andhra",450,Buffet
+346,Tasty Works 346,Yes,No,3.5,174,HSR Layout,Quick Bites,"Street Food, North Indian",800,Desserts
+347,Street Kitchen 347,Yes,Yes,3.0,101,Whitefield,Cafe,"Mughlai, Cafe",2000,Dine-out
+348,The Hungry Cafe 348,Yes,Yes,4.1,40,Indiranagar,Delivery,"Biryani, Fast Food, Thai",450,Dine-out
+349,Curry Stop 349,No,Yes,3.9,15,Rajajinagar,Dessert Parlour,"Street Food, Pizza",800,Cafes
+350,Little House 350,No,No,4.3,45,HSR Layout,Bakery,"Street Food, Desserts",350,Desserts
+351,Tasty Table 351,Yes,Yes,3.4,155,JP Nagar,Quick Bites,Continental,600,Desserts
+352,Desi Kitchen 352,Yes,No,3.2,13,Koramangala,Cafe,"Biryani, Fast Food",700,Buffet
+353,Taste Express 353,Yes,No,2.7,100,Rajajinagar,Food Court,Continental,200,Desserts
+354,Urban Express 354,Yes,No,2.9,315,Indiranagar,Delivery,"Biryani, South Indian, Mughlai",700,Pubs and bars
+355,The Hungry Works 355,No,Yes,2.3,297,MG Road,Delivery,Desserts,450,Buffet
+356,Grill Palace 356,Yes,No,3.8,49,Koramangala,Dessert Parlour,South Indian,500,Drinks & nightlife
+357,Wow House 357,Yes,Yes,3.3,81,MG Road,Bakery,"Mughlai, Pizza, Chinese",250,Delivery
+358,Tasty Corner 358,No,Yes,3.7,164,Malleshwaram,Dessert Parlour,"Desserts, Bakery",2000,Drinks & nightlife
+359,The Hungry Point 359,No,No,3.8,63,Indiranagar,Dessert Parlour,Bakery,200,Drinks & nightlife
+360,Spice Treats 360,No,No,3.5,51,Electronic City,Quick Bites,"Mughlai, South Indian",600,Delivery
+361,Green Works 361,Yes,Yes,3.9,9,Marathahalli,Casual Dining,Italian,1500,Buffet
+362,Foodie Table 362,No,No,2.8,114,Whitefield,Quick Bites,Continental,200,Pubs and bars
+363,Tasty Hub 363,No,Yes,3.8,45,MG Road,Fine Dining,Desserts,1500,Delivery
+364,Royal Hub 364,Yes,Yes,3.7,77,Marathahalli,Casual Dining,Street Food,450,Desserts
+365,Tasty Kitchen 365,No,No,3.3,25,Marathahalli,Bakery,Thai,600,Buffet
+366,Cafe Bistro 366,No,Yes,3.8,20,Electronic City,Bakery,Continental,400,Pubs and bars
+367,Spice Table 367,Yes,Yes,4.0,9,MG Road,Casual Dining,Pizza,700,Cafes
+368,Spice Darbar 368,Yes,No,4.4,87,Rajajinagar,Food Court,"Fast Food, Mughlai",2000,Pubs and bars
+369,Cafe House 369,Yes,No,3.9,145,Whitefield,Dessert Parlour,"Pizza, Italian, South Indian",350,Buffet
+370,Cafe Works 370,No,No,4.8,150,Indiranagar,Cafe,Thai,350,Dine-out
+371,Grill Palace 371,No,Yes,2.5,15,Koramangala,Food Court,Mughlai,2000,Drinks & nightlife
+372,Street Darbar 372,No,No,3.3,56,MG Road,Fine Dining,Continental,400,Delivery
+373,Desi Darbar 373,Yes,Yes,4.0,26,Electronic City,Cafe,"Italian, Continental",250,Cafes
+374,Foodie Kitchen 374,No,No,3.8,25,Marathahalli,Fine Dining,Chinese,600,Pubs and bars
+375,Curry Kitchen 375,No,No,3.3,13,Indiranagar,Quick Bites,Cafe,400,Pubs and bars
+376,Curry Stop 376,Yes,Yes,3.1,14,JP Nagar,Quick Bites,"Italian, Andhra, Pizza",1200,Buffet
+377,The Hungry Stop 377,Yes,No,3.1,156,Whitefield,Casual Dining,"Continental, Fast Food, Biryani",700,Desserts
+378,Cafe Kitchen 378,Yes,Yes,3.1,759,Whitefield,Cafe,"Desserts, Pizza",700,Buffet
+379,Green Stop 379,Yes,Yes,4.0,65,MG Road,Fine Dining,Andhra,1500,Drinks & nightlife
+380,Spice Kitchen 380,No,Yes,3.1,109,HSR Layout,Bakery,"Mughlai, South Indian, Street Food",800,Pubs and bars
+381,Spice Treats 381,No,Yes,3.3,61,Koramangala,Quick Bites,South Indian,2000,Dine-out
+382,Foodie Cafe 382,No,Yes,4.9,49,MG Road,Quick Bites,"Andhra, Pizza",500,Delivery
+383,Cafe Table 383,No,No,4.4,27,Whitefield,Casual Dining,Thai,300,Dine-out
+384,Foodie Table 384,No,No,3.7,320,Marathahalli,Bakery,"Street Food, Continental",1000,Buffet
+385,Green Cafe 385,Yes,No,3.3,334,Marathahalli,Delivery,Italian,500,Drinks & nightlife
+386,Taste Darbar 386,No,No,4.2,31,BTM Layout,Fine Dining,"Bakery, North Indian",500,Dine-out
+387,Tasty Palace 387,Yes,Yes,4.1,144,HSR Layout,Casual Dining,"Fast Food, Biryani",400,Pubs and bars
+388,Desi Palace 388,No,No,4.1,11,HSR Layout,Quick Bites,North Indian,1500,Buffet
+389,Desi Hub 389,No,Yes,3.2,42,Electronic City,Food Court,Mughlai,350,Delivery
+390,Street Palace 390,No,No,3.7,101,Koramangala,Fine Dining,Chinese,350,Dine-out
+391,Royal Treats 391,No,No,3.8,14,Koramangala,Cafe,"Chinese, Street Food",350,Buffet
+392,Spice Bistro 392,Yes,No,3.9,100,Electronic City,Delivery,Andhra,350,Pubs and bars
+393,Spice House 393,Yes,No,4.1,160,Whitefield,Quick Bites,Fast Food,1200,Pubs and bars
+394,Tasty Works 394,No,Yes,4.2,86,Rajajinagar,Food Court,Andhra,600,Dine-out
+395,Royal Works 395,No,Yes,3.7,10,MG Road,Bakery,Fast Food,400,Drinks & nightlife
+396,Little Palace 396,No,Yes,4.0,67,Whitefield,Food Court,Chinese,1200,Delivery
+397,Curry Darbar 397,Yes,No,3.9,15,Electronic City,Casual Dining,"Pizza, Italian, Chinese",300,Cafes
+398,Street Treats 398,Yes,Yes,3.0,156,Whitefield,Fine Dining,"Fast Food, Bakery",800,Drinks & nightlife
+399,Little Table 399,No,Yes,3.7,107,Indiranagar,Fine Dining,Continental,450,Desserts
+400,Tasty Express 400,Yes,Yes,3.7,56,Indiranagar,Casual Dining,Italian,350,Buffet
+401,Cafe Table 401,Yes,No,4.3,32,MG Road,Fine Dining,"Cafe, Pizza",500,Dine-out
+402,Cafe Kitchen 402,Yes,Yes,3.8,34,Koramangala,Dessert Parlour,"South Indian, Andhra",600,Buffet
+403,Royal Table 403,Yes,No,3.4,40,MG Road,Quick Bites,Italian,250,Drinks & nightlife
+404,Wow House 404,No,No,3.8,33,MG Road,Quick Bites,Desserts,250,Dine-out
+405,Green Garden 405,No,Yes,4.5,22,Malleshwaram,Dessert Parlour,"Chinese, North Indian",250,Drinks & nightlife
+406,Foodie Palace 406,Yes,Yes,3.6,35,Marathahalli,Bakery,Italian,350,Cafes
+407,The Hungry Stop 407,No,Yes,4.6,66,Rajajinagar,Bakery,Andhra,200,Cafes
+408,Urban Treats 408,Yes,No,4.4,12,Indiranagar,Dessert Parlour,North Indian,350,Pubs and bars
+409,Little Point 409,No,Yes,3.9,132,MG Road,Quick Bites,"Cafe, Thai",1000,Delivery
+410,Cafe Treats 410,Yes,No,3.8,158,Jayanagar,Delivery,"Fast Food, Chinese",600,Pubs and bars
+411,Urban Cafe 411,Yes,Yes,3.4,223,JP Nagar,Food Court,Street Food,200,Pubs and bars
+412,Taste Cafe 412,No,No,4.9,37,BTM Layout,Delivery,"Continental, Desserts",200,Desserts
+413,Urban Darbar 413,Yes,Yes,3.4,233,BTM Layout,Quick Bites,South Indian,500,Cafes
+414,Foodie Kitchen 414,Yes,Yes,4.7,32,Rajajinagar,Food Court,Bakery,350,Cafes
+415,Urban Garden 415,No,Yes,3.4,41,Marathahalli,Food Court,"Chinese, Andhra, Street Food",400,Dine-out
+416,Desi Works 416,No,Yes,2.8,21,Electronic City,Food Court,Andhra,400,Buffet
+417,Grill Darbar 417,Yes,Yes,3.0,25,Indiranagar,Dessert Parlour,"Chinese, Thai",800,Pubs and bars
+418,Little Treats 418,No,No,3.7,69,Electronic City,Bakery,"Thai, Fast Food",500,Buffet
+419,Spice Garden 419,Yes,No,4.7,20,JP Nagar,Delivery,Italian,500,Buffet
+420,The Hungry Express 420,No,No,4.3,44,BTM Layout,Cafe,"Cafe, Italian, Fast Food",200,Pubs and bars
+421,The Hungry Works 421,No,No,3.7,107,MG Road,Cafe,Chinese,400,Cafes
+422,Curry House 422,No,No,3.0,80,Marathahalli,Quick Bites,"Continental, Andhra",500,Buffet
+423,Desi Stop 423,No,Yes,3.8,89,Marathahalli,Casual Dining,Pizza,700,Cafes
+424,Green House 424,Yes,Yes,3.9,636,BTM Layout,Casual Dining,Thai,2000,Delivery
+425,Little Table 425,No,No,3.3,32,Indiranagar,Casual Dining,"Continental, Italian, Fast Food",2000,Cafes
+426,Curry Treats 426,No,Yes,3.3,31,Electronic City,Fine Dining,Cafe,800,Delivery
+427,Spice Garden 427,Yes,No,3.3,179,Koramangala,Quick Bites,Andhra,400,Pubs and bars
+428,Little Hub 428,Yes,Yes,4.6,30,Jayanagar,Food Court,"Bakery, Continental",2000,Dine-out
+429,Street Corner 429,Yes,No,3.2,87,Rajajinagar,Quick Bites,Andhra,1500,Dine-out
+430,Foodie Table 430,No,No,3.3,102,MG Road,Fine Dining,Continental,400,Desserts
+431,Grill Kitchen 431,No,No,3.8,11,Koramangala,Fine Dining,Continental,600,Dine-out
+432,Urban Bistro 432,Yes,No,4.7,328,Jayanagar,Fine Dining,"Street Food, Thai, Italian",400,Pubs and bars
+433,Royal Point 433,No,Yes,3.3,37,HSR Layout,Casual Dining,Italian,1000,Pubs and bars
+434,Little Treats 434,Yes,Yes,3.9,76,Jayanagar,Dessert Parlour,"Biryani, Mughlai",450,Desserts
+435,Wow Works 435,Yes,No,4.1,407,HSR Layout,Bakery,"Biryani, Pizza",200,Drinks & nightlife
+436,The Hungry Kitchen 436,Yes,Yes,3.6,24,MG Road,Quick Bites,Desserts,400,Drinks & nightlife
+437,Little Kitchen 437,Yes,No,2.8,26,HSR Layout,Fine Dining,Pizza,1500,Cafes
+438,The Hungry Palace 438,No,No,3.7,328,Jayanagar,Bakery,"Andhra, Italian, Biryani",1500,Pubs and bars
+439,Street Hub 439,Yes,No,3.4,68,Marathahalli,Cafe,Cafe,200,Pubs and bars
+440,Royal Hub 440,Yes,Yes,3.7,179,JP Nagar,Food Court,"Biryani, Desserts, Italian",500,Dine-out
+441,Cafe Bistro 441,Yes,Yes,4.9,32,Rajajinagar,Quick Bites,"Chinese, Fast Food",2000,Delivery
+442,Grill Darbar 442,Yes,Yes,3.4,155,Whitefield,Bakery,"North Indian, Thai, Cafe",400,Pubs and bars
+443,Foodie Garden 443,No,No,4.1,346,BTM Layout,Food Court,Chinese,800,Buffet
+444,Street Bistro 444,No,Yes,4.1,38,Marathahalli,Delivery,Desserts,350,Buffet
+445,The Hungry Corner 445,Yes,No,4.1,165,Indiranagar,Food Court,"North Indian, Mughlai, Pizza",350,Dine-out
+446,The Hungry Treats 446,Yes,No,4.2,90,Malleshwaram,Fine Dining,"Italian, Chinese",250,Desserts
+447,Street Table 447,Yes,Yes,4.4,175,MG Road,Casual Dining,"Chinese, Fast Food, Cafe",450,Cafes
+448,Grill Point 448,Yes,Yes,4.6,104,Whitefield,Cafe,Pizza,300,Delivery
+449,Grill House 449,No,Yes,3.6,63,Rajajinagar,Cafe,"Mughlai, Bakery, North Indian",500,Drinks & nightlife
+450,Cafe Garden 450,Yes,No,4.5,24,Indiranagar,Dessert Parlour,North Indian,1200,Desserts
+451,Foodie Cafe 451,Yes,No,3.9,36,Indiranagar,Dessert Parlour,"Chinese, Continental, Pizza",1000,Dine-out
+452,The Hungry Kitchen 452,Yes,Yes,3.7,196,Indiranagar,Bakery,"Pizza, Chinese",500,Cafes
+453,Wow Garden 453,Yes,No,3.8,57,Jayanagar,Quick Bites,"Continental, Bakery",400,Buffet
+454,Green House 454,No,No,2.8,115,Koramangala,Cafe,"Cafe, Continental",1200,Buffet
+455,Wow Works 455,Yes,Yes,4.1,474,Indiranagar,Dessert Parlour,"Mughlai, Cafe",300,Drinks & nightlife
+456,Spice Kitchen 456,No,No,3.5,67,Whitefield,Casual Dining,Cafe,400,Pubs and bars
+457,Wow Kitchen 457,No,No,3.9,264,Indiranagar,Casual Dining,Fast Food,1500,Buffet
+458,Tasty Table 458,Yes,No,3.6,72,BTM Layout,Dessert Parlour,Mughlai,1000,Drinks & nightlife
+459,Urban Garden 459,No,Yes,4.1,65,MG Road,Bakery,Fast Food,2000,Delivery
+460,Urban Corner 460,No,Yes,3.7,66,Malleshwaram,Casual Dining,"Pizza, Andhra",600,Pubs and bars
+461,Royal Palace 461,No,No,4.4,19,MG Road,Fine Dining,South Indian,500,Dine-out
+462,Street Treats 462,Yes,No,3.8,27,Indiranagar,Food Court,Andhra,1000,Desserts
+463,Wow Stop 463,No,Yes,4.5,11,Rajajinagar,Delivery,South Indian,400,Drinks & nightlife
+464,Little Works 464,Yes,No,3.3,79,HSR Layout,Bakery,Desserts,700,Delivery
+465,Little Table 465,Yes,Yes,4.7,51,Whitefield,Bakery,"Mughlai, Thai, Biryani",300,Pubs and bars
+466,Green Bistro 466,No,No,3.3,358,Jayanagar,Casual Dining,"Andhra, Chinese",250,Dine-out
+467,Curry Hub 467,No,No,2.8,6,Indiranagar,Bakery,Desserts,1000,Desserts
+468,Tasty Kitchen 468,No,No,4.0,33,BTM Layout,Casual Dining,"Cafe, South Indian",2000,Buffet
+469,Desi Palace 469,Yes,Yes,3.0,110,Electronic City,Dessert Parlour,"Biryani, North Indian",600,Dine-out
+470,Tasty Stop 470,No,No,3.9,31,Koramangala,Delivery,"Continental, Mughlai",1000,Pubs and bars
+471,Wow Treats 471,No,No,2.9,130,Indiranagar,Cafe,"Fast Food, Desserts",1500,Pubs and bars
+472,Wow Kitchen 472,No,No,4.1,49,Koramangala,Quick Bites,"Continental, North Indian, Fast Food",450,Desserts
+473,The Hungry Palace 473,No,Yes,4.9,18,HSR Layout,Delivery,Andhra,1200,Buffet
+474,Urban Darbar 474,Yes,No,2.7,27,MG Road,Casual Dining,"Continental, Cafe",2000,Drinks & nightlife
+475,Cafe House 475,No,Yes,3.7,69,Marathahalli,Casual Dining,"Street Food, South Indian, Bakery",600,Dine-out
+476,Wow Stop 476,Yes,Yes,3.5,77,Whitefield,Cafe,"Andhra, Street Food",600,Desserts
+477,Grill Table 477,No,No,2.9,231,Malleshwaram,Delivery,"Street Food, Thai, Fast Food",700,Delivery
+478,Foodie Palace 478,Yes,Yes,3.6,166,Malleshwaram,Dessert Parlour,"Fast Food, Italian",600,Pubs and bars
+479,Green Palace 479,Yes,Yes,3.9,86,Malleshwaram,Dessert Parlour,"Desserts, Andhra, Fast Food",1200,Drinks & nightlife
+480,Taste Point 480,Yes,Yes,4.1,85,Malleshwaram,Fine Dining,Thai,1000,Drinks & nightlife
+481,Little Works 481,No,No,4.1,206,Marathahalli,Dessert Parlour,Bakery,450,Pubs and bars
+482,Foodie Corner 482,Yes,Yes,3.8,110,Koramangala,Casual Dining,"Bakery, North Indian",700,Cafes
+483,Little Express 483,Yes,No,3.6,230,Whitefield,Casual Dining,Bakery,1500,Drinks & nightlife
+484,Curry Treats 484,Yes,No,3.3,330,Indiranagar,Delivery,Continental,1500,Drinks & nightlife
+485,Street Garden 485,No,Yes,3.7,13,MG Road,Food Court,"Desserts, Biryani, Continental",700,Pubs and bars
+486,Grill Stop 486,No,Yes,3.8,27,BTM Layout,Delivery,"Fast Food, Desserts, North Indian",200,Drinks & nightlife
+487,The Hungry Treats 487,Yes,Yes,4.2,28,Whitefield,Cafe,"Pizza, Mughlai, Fast Food",1500,Cafes
+488,Spice Garden 488,Yes,No,3.4,8,Jayanagar,Dessert Parlour,Pizza,700,Cafes
+489,Tasty Treats 489,No,Yes,3.4,4,Malleshwaram,Quick Bites,Street Food,2000,Buffet
+490,Cafe Darbar 490,Yes,No,2.7,116,Electronic City,Fine Dining,Thai,450,Buffet
+491,Foodie Point 491,Yes,Yes,4.2,83,Marathahalli,Food Court,"Fast Food, Desserts, Continental",300,Buffet
+492,Tasty Express 492,No,No,3.1,52,HSR Layout,Bakery,Continental,350,Dine-out
+493,Street Cafe 493,No,Yes,3.7,17,Electronic City,Delivery,"North Indian, South Indian, Mughlai",450,Buffet
+494,The Hungry Point 494,Yes,No,4.7,131,Malleshwaram,Dessert Parlour,"Thai, Fast Food, Biryani",1500,Buffet
+495,Spice Express 495,No,No,3.6,56,Rajajinagar,Delivery,"Andhra, Bakery",450,Delivery
+496,Green Cafe 496,Yes,Yes,3.8,7,Rajajinagar,Delivery,"South Indian, Thai",300,Pubs and bars
+497,Wow Cafe 497,No,Yes,3.5,27,Whitefield,Casual Dining,"Biryani, Andhra, South Indian",350,Desserts
+498,Desi Express 498,Yes,Yes,3.0,41,Marathahalli,Cafe,"Fast Food, North Indian, South Indian",250,Dine-out
+499,Cafe Cafe 499,No,No,4.9,103,MG Road,Food Court,Thai,400,Delivery
+500,Little Works 500,Yes,Yes,3.3,96,Electronic City,Cafe,Biryani,1000,Pubs and bars
+501,Street Point 501,Yes,No,4.6,137,Indiranagar,Dessert Parlour,"Street Food, North Indian, Pizza",2000,Pubs and bars
+502,Foodie Stop 502,No,No,3.7,28,Rajajinagar,Casual Dining,"Italian, Street Food, South Indian",400,Desserts
+503,Desi Darbar 503,Yes,No,4.2,80,Marathahalli,Dessert Parlour,Desserts,350,Drinks & nightlife
+504,Taste Stop 504,No,Yes,4.3,103,Marathahalli,Quick Bites,Italian,1000,Buffet
+505,The Hungry Hub 505,No,Yes,4.4,31,Malleshwaram,Fine Dining,North Indian,800,Cafes
+506,Royal Hub 506,Yes,Yes,4.6,66,Electronic City,Dessert Parlour,"Thai, Mughlai",2000,Cafes
+507,Little Point 507,Yes,No,4.9,27,Indiranagar,Dessert Parlour,Chinese,1000,Drinks & nightlife
+508,Tasty Bistro 508,Yes,No,4.8,66,Whitefield,Delivery,Italian,250,Buffet
+509,Cafe Treats 509,Yes,No,3.3,33,JP Nagar,Dessert Parlour,Street Food,250,Drinks & nightlife
+510,Foodie Corner 510,No,No,3.5,83,Koramangala,Fine Dining,"Chinese, Street Food",800,Cafes
+511,Curry Bistro 511,No,No,4.0,30,Whitefield,Fine Dining,Pizza,1200,Desserts
+512,Taste Kitchen 512,No,No,3.7,465,Whitefield,Cafe,"Cafe, Fast Food",1500,Pubs and bars
+513,The Hungry Works 513,Yes,Yes,4.8,84,Rajajinagar,Cafe,Andhra,2000,Drinks & nightlife
+514,Desi Palace 514,Yes,No,3.7,61,HSR Layout,Casual Dining,Thai,200,Dine-out
+515,Tasty Garden 515,No,Yes,4.1,19,HSR Layout,Dessert Parlour,Andhra,700,Cafes
+516,Taste House 516,No,No,3.5,10,Rajajinagar,Delivery,"Desserts, Thai",250,Pubs and bars
+517,Royal Corner 517,Yes,No,4.0,104,Electronic City,Quick Bites,"Mughlai, Chinese",1500,Drinks & nightlife
+518,Urban Express 518,No,Yes,3.4,263,JP Nagar,Delivery,"Cafe, Fast Food, North Indian",350,Buffet
+519,Street Treats 519,No,No,2.9,12,Koramangala,Casual Dining,"Continental, Desserts, Bakery",450,Drinks & nightlife
+520,Grill Point 520,No,No,3.8,155,Electronic City,Quick Bites,South Indian,1200,Desserts
+521,Foodie Table 521,Yes,No,4.8,34,HSR Layout,Food Court,"Biryani, Fast Food, Street Food",1000,Delivery
+522,Taste Table 522,No,Yes,4.4,52,Whitefield,Bakery,Cafe,1500,Cafes
+523,Royal Corner 523,No,Yes,3.6,132,Whitefield,Fine Dining,South Indian,700,Dine-out
+524,Wow Kitchen 524,No,No,4.1,11,BTM Layout,Bakery,"Andhra, South Indian, Mughlai",350,Desserts
+525,Green House 525,No,Yes,4.7,217,Whitefield,Quick Bites,Street Food,300,Cafes
+526,The Hungry Table 526,Yes,Yes,3.3,81,Whitefield,Food Court,"Desserts, North Indian, Street Food",300,Dine-out
+527,Green Treats 527,No,Yes,4.0,70,Electronic City,Bakery,"Mughlai, North Indian",1200,Pubs and bars
+528,Desi Palace 528,No,Yes,3.3,27,Whitefield,Dessert Parlour,"Chinese, Continental",2000,Cafes
+529,Foodie Garden 529,Yes,Yes,3.7,176,Whitefield,Cafe,"Mughlai, Fast Food, Cafe",800,Buffet
+530,Grill Kitchen 530,No,Yes,4.1,37,Whitefield,Bakery,Desserts,2000,Dine-out
+531,Cafe Cafe 531,Yes,Yes,4.2,3,Whitefield,Casual Dining,"North Indian, Bakery",700,Pubs and bars
+532,Wow Point 532,No,Yes,4.4,9,MG Road,Delivery,"Mughlai, Biryani, Desserts",500,Pubs and bars
+533,Foodie Corner 533,No,Yes,3.5,17,Jayanagar,Bakery,"Bakery, Thai",500,Pubs and bars
+534,Grill Table 534,Yes,No,2.9,174,Marathahalli,Food Court,Thai,2000,Delivery
+535,Taste House 535,Yes,Yes,3.4,77,MG Road,Delivery,North Indian,1200,Drinks & nightlife
+536,Foodie Cafe 536,Yes,Yes,3.7,87,Electronic City,Dessert Parlour,Biryani,450,Delivery
+537,Desi Hub 537,No,No,3.7,15,MG Road,Bakery,"Biryani, Street Food",450,Cafes
+538,The Hungry Palace 538,No,No,4.3,33,JP Nagar,Food Court,Desserts,700,Drinks & nightlife
+539,Cafe Darbar 539,Yes,Yes,2.7,35,Malleshwaram,Quick Bites,Andhra,2000,Buffet
+540,Royal Garden 540,No,Yes,4.7,127,Rajajinagar,Casual Dining,Desserts,500,Pubs and bars
+541,Urban Kitchen 541,No,No,3.5,38,Jayanagar,Delivery,Andhra,300,Delivery
+542,Grill Cafe 542,No,No,3.5,435,Marathahalli,Dessert Parlour,Street Food,200,Drinks & nightlife
+543,Cafe House 543,Yes,No,3.9,83,HSR Layout,Dessert Parlour,"North Indian, Bakery",2000,Cafes
+544,Little House 544,Yes,Yes,4.4,69,JP Nagar,Delivery,Bakery,800,Drinks & nightlife
+545,Tasty Cafe 545,No,No,3.5,44,MG Road,Food Court,Chinese,250,Dine-out
+546,Taste Express 546,Yes,Yes,3.7,52,Malleshwaram,Fine Dining,Desserts,200,Delivery
+547,Street Garden 547,Yes,No,4.2,57,Electronic City,Casual Dining,Continental,800,Delivery
+548,Taste Express 548,Yes,Yes,4.2,50,JP Nagar,Cafe,Biryani,700,Pubs and bars
+549,Foodie Palace 549,No,No,3.8,7,BTM Layout,Delivery,"Italian, Desserts",2000,Pubs and bars
+550,Cafe Kitchen 550,No,Yes,4.3,77,Jayanagar,Cafe,Bakery,600,Desserts
+551,Foodie Bistro 551,Yes,No,4.3,3,Marathahalli,Casual Dining,"Bakery, Continental, Mughlai",1200,Drinks & nightlife
+552,Little Works 552,Yes,No,4.9,47,JP Nagar,Cafe,Continental,400,Dine-out
+553,Street Palace 553,No,Yes,4.4,19,Jayanagar,Quick Bites,Cafe,450,Drinks & nightlife
+554,Wow Hub 554,Yes,Yes,4.1,19,Jayanagar,Delivery,"Thai, Continental, Cafe",1200,Cafes
+555,Desi Kitchen 555,No,Yes,3.3,370,Indiranagar,Cafe,Andhra,350,Drinks & nightlife
+556,Tasty Palace 556,Yes,No,3.6,67,JP Nagar,Bakery,"Cafe, Street Food, North Indian",1500,Dine-out
+557,Green Darbar 557,No,No,4.3,89,Electronic City,Quick Bites,Cafe,300,Buffet
+558,Foodie Stop 558,Yes,No,3.8,78,Rajajinagar,Quick Bites,"Bakery, Biryani",600,Desserts
+559,Wow House 559,No,No,4.9,51,Koramangala,Delivery,Pizza,700,Desserts
+560,Taste Express 560,No,Yes,3.8,156,HSR Layout,Dessert Parlour,"South Indian, Fast Food",450,Desserts
+561,Green Garden 561,No,No,4.4,178,Malleshwaram,Fine Dining,"Fast Food, Thai",300,Delivery
+562,Curry Kitchen 562,Yes,Yes,4.1,17,Malleshwaram,Dessert Parlour,"Italian, Cafe",300,Pubs and bars
+563,Royal Darbar 563,No,Yes,4.8,17,Malleshwaram,Quick Bites,Desserts,500,Desserts
+564,Street Stop 564,No,Yes,3.9,25,Rajajinagar,Fine Dining,Chinese,500,Pubs and bars
+565,Urban Works 565,Yes,No,3.7,75,Whitefield,Casual Dining,"Italian, Thai",700,Cafes
+566,Wow Bistro 566,Yes,No,3.9,83,Jayanagar,Fine Dining,Cafe,2000,Delivery
+567,Foodie Kitchen 567,No,Yes,4.7,85,JP Nagar,Delivery,"Desserts, Bakery",400,Dine-out
+568,Tasty Bistro 568,Yes,No,3.5,143,Rajajinagar,Bakery,"Mughlai, Thai",700,Pubs and bars
+569,Little Corner 569,No,No,4.5,15,Whitefield,Fine Dining,"Cafe, South Indian, Biryani",800,Desserts
+570,Royal Bistro 570,Yes,Yes,4.1,110,HSR Layout,Fine Dining,"Street Food, Thai, Biryani",2000,Delivery
+571,Street Treats 571,No,No,3.5,216,JP Nagar,Bakery,"Italian, Pizza, Thai",800,Desserts
+572,Wow Hub 572,Yes,Yes,3.6,61,Rajajinagar,Dessert Parlour,Chinese,2000,Drinks & nightlife
+573,Urban Kitchen 573,No,Yes,3.6,55,BTM Layout,Casual Dining,"Pizza, South Indian, Continental",300,Buffet
+574,Grill Corner 574,Yes,No,3.0,12,Indiranagar,Food Court,"Desserts, Bakery",250,Delivery
+575,Little Corner 575,No,No,4.7,23,Whitefield,Quick Bites,Continental,1200,Buffet
+576,Cafe Stop 576,No,No,3.1,6,Marathahalli,Dessert Parlour,Mughlai,450,Dine-out
+577,Little Works 577,Yes,No,3.3,14,Rajajinagar,Food Court,"Chinese, Pizza",700,Dine-out
+578,Desi Kitchen 578,No,Yes,4.8,149,BTM Layout,Dessert Parlour,"Mughlai, Desserts, Italian",450,Delivery
+579,Taste Stop 579,Yes,Yes,3.3,519,Whitefield,Fine Dining,"Italian, Chinese",400,Delivery
+580,The Hungry House 580,No,No,4.3,39,MG Road,Dessert Parlour,"Desserts, North Indian",1200,Dine-out
+581,Foodie Table 581,No,Yes,2.1,539,Marathahalli,Food Court,Bakery,200,Desserts
+582,Green Express 582,No,No,2.8,10,Indiranagar,Food Court,Chinese,1200,Drinks & nightlife
+583,Little Works 583,No,No,4.4,626,Marathahalli,Dessert Parlour,Desserts,1500,Desserts
+584,The Hungry Kitchen 584,Yes,Yes,4.6,95,Rajajinagar,Bakery,Andhra,600,Dine-out
+585,Tasty House 585,No,Yes,4.1,128,Whitefield,Casual Dining,"Italian, Pizza",800,Dine-out
+586,Royal Works 586,No,No,4.2,72,BTM Layout,Casual Dining,Chinese,250,Cafes
+587,Tasty Garden 587,No,Yes,3.8,51,Jayanagar,Bakery,Chinese,200,Delivery
+588,Curry Darbar 588,No,Yes,3.2,41,Whitefield,Casual Dining,"Pizza, Bakery",200,Delivery
+589,Street Stop 589,Yes,Yes,2.6,49,Jayanagar,Food Court,"South Indian, Desserts",600,Pubs and bars
+590,Desi Treats 590,Yes,No,3.1,18,HSR Layout,Casual Dining,South Indian,1500,Cafes
+591,Foodie Cafe 591,Yes,No,3.8,219,Jayanagar,Fine Dining,"Pizza, Bakery",250,Cafes
+592,Cafe Cafe 592,Yes,No,4.3,11,Jayanagar,Delivery,"Pizza, North Indian, Thai",700,Delivery
+593,Green Cafe 593,Yes,Yes,3.1,139,MG Road,Fine Dining,Andhra,1000,Buffet
+594,Desi Hub 594,Yes,No,3.1,43,Koramangala,Casual Dining,Bakery,400,Dine-out
+595,Green Corner 595,No,Yes,4.1,20,BTM Layout,Cafe,"Cafe, Pizza, Street Food",300,Drinks & nightlife
+596,Tasty Cafe 596,Yes,Yes,3.8,14,Whitefield,Cafe,"Fast Food, Bakery",1000,Cafes
+597,Wow Hub 597,No,No,3.3,75,Koramangala,Food Court,"Continental, Fast Food",700,Delivery
+598,Taste Works 598,No,No,2.7,84,BTM Layout,Delivery,"Chinese, Italian, North Indian",600,Dine-out
+599,The Hungry Stop 599,No,No,3.7,94,Electronic City,Quick Bites,Desserts,450,Buffet
+600,Cafe House 600,No,No,3.8,213,Rajajinagar,Food Court,"Chinese, Cafe",400,Drinks & nightlife
+601,Tasty Works 601,No,Yes,3.8,35,Indiranagar,Food Court,Thai,200,Cafes
+602,Tasty Garden 602,Yes,No,3.8,94,Rajajinagar,Fine Dining,"Mughlai, Cafe",1500,Buffet
+603,Curry Corner 603,Yes,Yes,3.7,56,Whitefield,Casual Dining,Desserts,1000,Cafes
+604,Grill Cafe 604,Yes,Yes,3.2,28,MG Road,Bakery,Cafe,350,Dine-out
+605,Green Palace 605,Yes,No,2.8,314,Malleshwaram,Cafe,Andhra,400,Buffet
+606,Desi Cafe 606,Yes,No,2.9,27,Koramangala,Fine Dining,Mughlai,600,Dine-out
+607,Taste House 607,Yes,No,3.2,133,Malleshwaram,Cafe,"Thai, Biryani, Fast Food",1500,Pubs and bars
+608,Wow Hub 608,Yes,Yes,3.5,190,Marathahalli,Food Court,South Indian,350,Cafes
+609,Taste Works 609,Yes,Yes,3.3,72,Marathahalli,Food Court,Desserts,1000,Drinks & nightlife
+610,Wow Cafe 610,No,No,3.2,466,MG Road,Cafe,Bakery,1000,Cafes
+611,Taste Palace 611,No,Yes,2.9,74,BTM Layout,Fine Dining,Desserts,500,Delivery
+612,Curry Works 612,No,No,4.1,82,JP Nagar,Delivery,"Fast Food, Andhra",450,Dine-out
+613,Cafe Treats 613,No,No,3.6,47,MG Road,Casual Dining,"Continental, Biryani",1500,Drinks & nightlife
+614,Street Express 614,Yes,Yes,3.7,47,Koramangala,Dessert Parlour,Italian,800,Cafes
+615,Street Point 615,Yes,No,4.3,497,Marathahalli,Quick Bites,Andhra,450,Buffet
+616,The Hungry Bistro 616,Yes,Yes,3.3,13,Electronic City,Delivery,Cafe,450,Cafes
+617,Grill Table 617,Yes,No,3.6,720,HSR Layout,Cafe,Bakery,400,Drinks & nightlife
+618,Curry Table 618,Yes,No,3.2,281,Malleshwaram,Cafe,Bakery,600,Dine-out
+619,Desi House 619,No,Yes,4.8,31,JP Nagar,Fine Dining,"Italian, North Indian, Pizza",1500,Pubs and bars
+620,Little Darbar 620,Yes,Yes,4.1,278,Rajajinagar,Food Court,"Biryani, Andhra",250,Buffet
+621,Tasty Point 621,No,Yes,3.5,44,Malleshwaram,Delivery,Desserts,200,Cafes
+622,Desi Palace 622,No,No,3.3,19,Electronic City,Cafe,Mughlai,1200,Cafes
+623,Tasty Kitchen 623,Yes,Yes,3.3,16,BTM Layout,Casual Dining,"Italian, Bakery",500,Dine-out
+624,Desi Corner 624,No,Yes,3.7,25,BTM Layout,Delivery,"Italian, South Indian",500,Desserts
+625,Urban Express 625,Yes,Yes,3.9,11,MG Road,Fine Dining,"Mughlai, Street Food",350,Drinks & nightlife
+626,Tasty Bistro 626,No,No,3.9,125,HSR Layout,Fine Dining,"South Indian, Thai",1000,Delivery
+627,Tasty Palace 627,No,Yes,3.7,79,BTM Layout,Quick Bites,"Mughlai, North Indian",1500,Desserts
+628,Little Bistro 628,Yes,Yes,4.5,16,Whitefield,Cafe,Thai,2000,Buffet
+629,Tasty Works 629,No,Yes,4.8,83,Indiranagar,Dessert Parlour,"North Indian, Continental, Street Food",300,Desserts
+630,Taste Point 630,Yes,Yes,3.2,51,Jayanagar,Bakery,"North Indian, Fast Food",350,Dine-out
+631,Grill Table 631,Yes,No,4.1,58,Rajajinagar,Casual Dining,"Chinese, Pizza, Andhra",1000,Delivery
+632,Spice Treats 632,Yes,No,4.1,21,Rajajinagar,Casual Dining,North Indian,400,Buffet
+633,Spice Express 633,No,Yes,3.8,13,Rajajinagar,Food Court,"Mughlai, Italian",1000,Cafes
+634,Curry Palace 634,No,No,3.6,22,Marathahalli,Cafe,"Desserts, Pizza",250,Cafes
+635,Green Table 635,Yes,Yes,3.2,187,Marathahalli,Dessert Parlour,Desserts,600,Delivery
+636,Little Bistro 636,Yes,No,4.4,100,JP Nagar,Dessert Parlour,"Biryani, Pizza",300,Cafes
+637,Street Stop 637,No,No,3.0,39,Koramangala,Dessert Parlour,"Italian, Bakery",200,Cafes
+638,Wow Garden 638,Yes,Yes,4.5,62,Marathahalli,Delivery,Fast Food,500,Desserts
+639,Street Palace 639,No,No,4.9,80,JP Nagar,Bakery,Street Food,300,Dine-out
+640,Curry Corner 640,Yes,Yes,3.8,40,Jayanagar,Quick Bites,Continental,1000,Desserts
+641,Urban Point 641,Yes,No,3.8,46,Marathahalli,Cafe,Mughlai,800,Cafes
+642,Street Garden 642,Yes,No,4.2,142,MG Road,Dessert Parlour,Andhra,300,Desserts
+643,Desi Hub 643,No,Yes,3.2,14,Indiranagar,Quick Bites,"Thai, Andhra, Mughlai",1200,Cafes
+644,Grill Hub 644,No,Yes,2.5,90,HSR Layout,Casual Dining,Bakery,800,Delivery
+645,Taste Stop 645,No,Yes,3.0,6,Electronic City,Bakery,Pizza,1500,Drinks & nightlife
+646,Royal Hub 646,No,Yes,4.0,660,HSR Layout,Casual Dining,"Fast Food, Chinese, Biryani",600,Desserts
+647,Wow Cafe 647,No,Yes,3.7,126,HSR Layout,Delivery,Thai,400,Buffet
+648,Curry Treats 648,No,No,3.8,49,HSR Layout,Food Court,Thai,600,Desserts
+649,Foodie Palace 649,No,No,4.3,40,Malleshwaram,Casual Dining,Street Food,1200,Dine-out
+650,Taste Point 650,Yes,Yes,3.9,75,MG Road,Casual Dining,Cafe,600,Dine-out
+651,The Hungry Treats 651,Yes,Yes,3.3,147,MG Road,Dessert Parlour,"Desserts, Bakery",1000,Pubs and bars
+652,Grill Table 652,No,No,3.6,25,Koramangala,Quick Bites,Cafe,300,Desserts
+653,Desi Palace 653,Yes,Yes,4.0,22,Malleshwaram,Quick Bites,"Cafe, South Indian, Pizza",700,Desserts
+654,Grill Table 654,Yes,No,3.7,54,Malleshwaram,Delivery,"Fast Food, Cafe",200,Desserts
+655,Urban Kitchen 655,Yes,Yes,4.4,87,Malleshwaram,Bakery,Italian,450,Drinks & nightlife
+656,Foodie Point 656,No,Yes,3.7,123,MG Road,Casual Dining,South Indian,700,Pubs and bars
+657,Curry Corner 657,Yes,Yes,4.6,95,Whitefield,Casual Dining,Thai,450,Desserts
+658,Little Corner 658,No,No,3.7,14,Indiranagar,Quick Bites,Italian,1200,Cafes
+659,Cafe Treats 659,No,Yes,3.0,40,BTM Layout,Casual Dining,Street Food,1500,Dine-out
+660,Foodie Treats 660,No,No,3.3,45,Indiranagar,Casual Dining,"Continental, Thai",800,Cafes
+661,Royal Corner 661,Yes,Yes,3.7,92,Koramangala,Fine Dining,"Italian, Street Food",1000,Buffet
+662,Street Kitchen 662,No,No,3.7,88,Koramangala,Cafe,Andhra,600,Desserts
+663,Cafe Works 663,No,Yes,3.7,7,Electronic City,Fine Dining,Chinese,1000,Buffet
+664,Street Garden 664,No,No,3.1,47,Indiranagar,Food Court,Bakery,400,Pubs and bars
+665,Wow Stop 665,Yes,Yes,2.9,99,Jayanagar,Fine Dining,"South Indian, Italian",600,Dine-out
+666,Urban Palace 666,Yes,Yes,4.7,184,Malleshwaram,Cafe,"Desserts, Continental",1200,Desserts
+667,Grill Stop 667,No,No,3.6,242,JP Nagar,Dessert Parlour,"Pizza, Street Food, Bakery",1200,Dine-out
+668,Cafe Darbar 668,No,No,3.8,38,Whitefield,Delivery,"Street Food, Fast Food",300,Drinks & nightlife
+669,Cafe Cafe 669,Yes,Yes,3.3,40,Indiranagar,Delivery,Continental,200,Pubs and bars
+670,Taste Darbar 670,No,No,3.4,64,Rajajinagar,Delivery,"Biryani, Thai",200,Buffet
+671,The Hungry Point 671,Yes,No,3.8,54,Marathahalli,Fine Dining,"Continental, Pizza, Italian",400,Pubs and bars
+672,Foodie Works 672,No,No,4.0,179,Electronic City,Casual Dining,South Indian,1000,Pubs and bars
+673,Street Treats 673,No,No,4.3,12,Koramangala,Quick Bites,Continental,450,Desserts
+674,Desi Stop 674,No,No,2.0,138,MG Road,Casual Dining,Mughlai,600,Pubs and bars
+675,Green Palace 675,No,Yes,2.8,43,Rajajinagar,Fine Dining,"Italian, Street Food",1200,Pubs and bars
+676,Tasty Garden 676,No,Yes,2.9,9,Rajajinagar,Quick Bites,South Indian,300,Dine-out
+677,Wow Stop 677,Yes,No,4.1,116,JP Nagar,Casual Dining,"Biryani, Chinese",800,Delivery
+678,Curry Express 678,No,No,3.3,4,HSR Layout,Dessert Parlour,"South Indian, Cafe",350,Cafes
+679,Street Kitchen 679,Yes,Yes,3.3,80,BTM Layout,Casual Dining,Fast Food,1500,Pubs and bars
+680,Street Treats 680,Yes,No,2.7,65,Malleshwaram,Dessert Parlour,"Thai, Desserts",300,Pubs and bars
+681,Green Works 681,Yes,Yes,3.7,97,Koramangala,Bakery,Chinese,1500,Desserts
+682,Little Stop 682,No,Yes,3.8,20,Electronic City,Cafe,"Andhra, Desserts, South Indian",200,Delivery
+683,Grill Darbar 683,No,Yes,4.5,46,Jayanagar,Delivery,"Thai, North Indian",250,Delivery
+684,Desi Treats 684,No,No,3.7,21,Rajajinagar,Cafe,Continental,400,Delivery
+685,Grill Point 685,Yes,Yes,3.4,22,Marathahalli,Cafe,Chinese,400,Cafes
+686,Wow Darbar 686,No,Yes,3.6,302,Jayanagar,Delivery,"Fast Food, Desserts",450,Cafes
+687,Spice Corner 687,No,No,2.8,10,Koramangala,Bakery,Italian,800,Drinks & nightlife
+688,Foodie Garden 688,Yes,Yes,4.7,44,Whitefield,Bakery,South Indian,600,Dine-out
+689,Street Darbar 689,Yes,Yes,3.3,154,BTM Layout,Quick Bites,Italian,450,Buffet
+690,Green Hub 690,No,No,3.3,339,Whitefield,Dessert Parlour,"Cafe, South Indian, Thai",400,Delivery
+691,Cafe Treats 691,No,No,4.1,33,Koramangala,Cafe,"Chinese, Pizza",1000,Desserts
+692,The Hungry Darbar 692,No,Yes,4.9,29,JP Nagar,Quick Bites,Fast Food,600,Dine-out
+693,Taste Cafe 693,Yes,No,4.2,73,Indiranagar,Dessert Parlour,Biryani,2000,Dine-out
+694,Taste Corner 694,Yes,Yes,4.5,260,BTM Layout,Food Court,"Biryani, Street Food",500,Buffet
+695,Grill Darbar 695,No,No,3.7,25,JP Nagar,Delivery,Continental,2000,Cafes
+696,Grill Palace 696,No,Yes,4.0,27,BTM Layout,Fine Dining,"Mughlai, South Indian, Pizza",1200,Dine-out
+697,Foodie Kitchen 697,Yes,No,4.9,62,Electronic City,Cafe,Andhra,600,Drinks & nightlife
+698,Little Cafe 698,No,No,3.5,65,Koramangala,Cafe,"Bakery, Andhra",500,Cafes
+699,Little Corner 699,Yes,Yes,2.8,20,BTM Layout,Dessert Parlour,Thai,800,Desserts
+700,The Hungry Palace 700,Yes,No,4.5,28,Rajajinagar,Dessert Parlour,"Street Food, Cafe",350,Desserts
+701,Curry Corner 701,Yes,No,3.0,93,Jayanagar,Casual Dining,"Thai, Fast Food, South Indian",800,Delivery
+702,Curry Express 702,No,Yes,4.5,112,MG Road,Delivery,"North Indian, Thai",1200,Desserts
+703,Foodie Garden 703,No,No,4.3,25,Marathahalli,Delivery,"Street Food, Biryani, Mughlai",450,Drinks & nightlife
+704,Curry Table 704,Yes,No,2.8,245,JP Nagar,Food Court,Cafe,300,Cafes
+705,Spice Kitchen 705,Yes,Yes,3.5,42,Rajajinagar,Casual Dining,Andhra,1000,Cafes
+706,Royal Cafe 706,Yes,Yes,4.6,95,MG Road,Bakery,"Thai, Cafe, Mughlai",500,Pubs and bars
+707,Taste Stop 707,No,No,4.0,475,BTM Layout,Food Court,"Street Food, Biryani, Thai",300,Delivery
+708,Curry Works 708,Yes,No,3.3,138,HSR Layout,Dessert Parlour,Chinese,500,Desserts
+709,Wow Bistro 709,Yes,No,3.7,71,Indiranagar,Bakery,"Street Food, Fast Food",200,Drinks & nightlife
+710,Taste Kitchen 710,No,No,4.7,90,Marathahalli,Cafe,Chinese,1200,Cafes
+711,Grill House 711,Yes,No,4.0,159,JP Nagar,Casual Dining,"Mughlai, Pizza",1000,Desserts
+712,Tasty Darbar 712,No,No,3.5,23,Jayanagar,Dessert Parlour,"Desserts, Cafe",800,Cafes
+713,Spice Cafe 713,No,No,3.0,7,BTM Layout,Quick Bites,Pizza,800,Dine-out
+714,Cafe Kitchen 714,Yes,No,4.9,18,Whitefield,Cafe,Mughlai,400,Pubs and bars
+715,Curry Express 715,No,No,3.6,41,Koramangala,Cafe,Italian,300,Dine-out
+716,Tasty Darbar 716,Yes,No,3.9,123,Whitefield,Dessert Parlour,Thai,800,Pubs and bars
+717,Urban Corner 717,Yes,No,4.3,30,Electronic City,Quick Bites,"Continental, Cafe, Chinese",1500,Pubs and bars
+718,Little Treats 718,No,Yes,3.6,72,Malleshwaram,Quick Bites,"Bakery, Biryani",1500,Cafes
+719,Desi Stop 719,Yes,No,3.5,272,Indiranagar,Casual Dining,"Pizza, Andhra",450,Cafes
+720,Foodie Cafe 720,No,Yes,4.0,113,Malleshwaram,Food Court,"Biryani, Cafe",400,Desserts
+721,The Hungry Table 721,No,Yes,4.1,176,BTM Layout,Food Court,Chinese,700,Drinks & nightlife
+722,Street Point 722,Yes,Yes,3.8,14,Rajajinagar,Fine Dining,Desserts,1000,Pubs and bars
+723,The Hungry Express 723,No,No,4.0,28,Indiranagar,Dessert Parlour,"Street Food, Mughlai",2000,Drinks & nightlife
+724,Taste Bistro 724,Yes,Yes,3.4,98,Rajajinagar,Quick Bites,"Biryani, Cafe",1500,Delivery
+725,Foodie Kitchen 725,Yes,Yes,4.5,55,Marathahalli,Cafe,"North Indian, Mughlai",200,Drinks & nightlife
+726,Green House 726,No,No,3.9,299,Koramangala,Cafe,"Fast Food, Continental",1200,Buffet
+727,Urban Stop 727,Yes,Yes,3.9,736,Electronic City,Quick Bites,"Mughlai, Andhra",350,Desserts
+728,Wow Corner 728,Yes,Yes,4.1,9,Jayanagar,Dessert Parlour,"Bakery, Mughlai, Street Food",1500,Desserts
+729,Wow Table 729,No,No,4.2,79,Rajajinagar,Fine Dining,"Thai, South Indian, Mughlai",600,Delivery
+730,Foodie Garden 730,No,Yes,4.5,107,JP Nagar,Casual Dining,Bakery,250,Delivery
+731,Street Hub 731,Yes,No,3.6,16,Electronic City,Food Court,Chinese,600,Cafes
+732,Grill Cafe 732,No,Yes,3.6,23,Indiranagar,Bakery,"Cafe, South Indian, Chinese",700,Drinks & nightlife
+733,Grill Works 733,Yes,Yes,3.3,98,Jayanagar,Bakery,South Indian,200,Buffet
+734,Little Garden 734,Yes,Yes,4.8,81,Jayanagar,Quick Bites,"Chinese, Mughlai",1000,Drinks & nightlife
+735,Cafe Garden 735,Yes,No,2.9,85,MG Road,Cafe,Thai,500,Dine-out
+736,Grill Point 736,No,Yes,4.5,29,JP Nagar,Fine Dining,North Indian,500,Drinks & nightlife
+737,Taste Stop 737,Yes,No,3.6,55,JP Nagar,Cafe,Biryani,200,Pubs and bars
+738,Taste House 738,Yes,Yes,3.2,104,MG Road,Delivery,"Bakery, Thai",400,Delivery
+739,Urban Table 739,No,No,3.6,83,Rajajinagar,Bakery,"Biryani, South Indian, Mughlai",1200,Drinks & nightlife
+740,Wow Palace 740,Yes,Yes,3.1,35,HSR Layout,Bakery,Chinese,200,Desserts
+741,Taste Stop 741,No,No,4.2,37,BTM Layout,Casual Dining,Bakery,700,Buffet
+742,Urban Hub 742,Yes,No,4.8,36,Rajajinagar,Bakery,North Indian,450,Drinks & nightlife
+743,Spice Works 743,Yes,Yes,3.8,138,Whitefield,Bakery,"Chinese, Pizza",800,Drinks & nightlife
+744,Wow Cafe 744,Yes,Yes,2.8,9,Whitefield,Casual Dining,Cafe,800,Cafes
+745,Curry Palace 745,No,Yes,2.7,192,Indiranagar,Cafe,"North Indian, Italian, Bakery",250,Buffet
+746,Desi Hub 746,Yes,Yes,3.3,705,MG Road,Fine Dining,"Street Food, Bakery",800,Pubs and bars
+747,Curry Darbar 747,Yes,No,3.3,65,HSR Layout,Casual Dining,"Mughlai, Biryani, Fast Food",250,Dine-out
+748,Royal Darbar 748,Yes,No,4.7,405,MG Road,Quick Bites,Fast Food,250,Drinks & nightlife
+749,Street Palace 749,No,Yes,4.9,182,Koramangala,Quick Bites,Desserts,300,Buffet
+750,Urban House 750,Yes,No,3.7,98,Koramangala,Quick Bites,"Street Food, Biryani, Bakery",300,Buffet
+751,Green Corner 751,No,Yes,4.2,31,Rajajinagar,Dessert Parlour,"Mughlai, Street Food, Italian",500,Dine-out
+752,Wow Treats 752,Yes,Yes,3.2,54,Electronic City,Cafe,"Biryani, Continental",300,Drinks & nightlife
+753,Green Kitchen 753,Yes,Yes,3.6,34,Marathahalli,Cafe,Fast Food,500,Dine-out
+754,Desi Cafe 754,Yes,No,4.2,141,Rajajinagar,Delivery,Andhra,1500,Delivery
+755,Cafe Corner 755,Yes,No,3.8,239,Whitefield,Casual Dining,Continental,250,Buffet
+756,Grill Darbar 756,No,No,3.0,44,BTM Layout,Casual Dining,Andhra,500,Buffet
+757,Taste Kitchen 757,Yes,No,3.2,8,Indiranagar,Delivery,"North Indian, Desserts, Chinese",300,Drinks & nightlife
+758,Wow Cafe 758,No,Yes,3.6,48,JP Nagar,Delivery,"Street Food, Thai",450,Pubs and bars
+759,Wow Garden 759,Yes,Yes,4.7,102,HSR Layout,Food Court,Fast Food,350,Cafes
+760,Street Garden 760,No,Yes,3.0,348,Whitefield,Delivery,Cafe,800,Dine-out
+761,Wow Hub 761,Yes,No,4.5,97,Rajajinagar,Fine Dining,"Chinese, Biryani",450,Delivery
+762,The Hungry Corner 762,Yes,Yes,3.6,20,Indiranagar,Bakery,Fast Food,300,Desserts
+763,Grill Corner 763,Yes,No,3.5,162,Rajajinagar,Quick Bites,"Chinese, Bakery",450,Dine-out
+764,Curry Hub 764,No,No,4.9,255,Electronic City,Bakery,"Andhra, Continental",250,Pubs and bars
+765,Green Bistro 765,No,Yes,3.4,17,MG Road,Delivery,"Italian, North Indian",1200,Dine-out
+766,Spice House 766,Yes,No,3.8,9,BTM Layout,Casual Dining,Thai,800,Desserts
+767,Cafe Hub 767,Yes,No,3.9,47,Indiranagar,Casual Dining,"Biryani, Cafe",1500,Drinks & nightlife
+768,Little Kitchen 768,No,Yes,3.4,11,Koramangala,Bakery,"Biryani, Continental, Chinese",450,Drinks & nightlife
+769,Cafe Treats 769,No,Yes,4.0,32,Whitefield,Food Court,Chinese,600,Cafes
+770,Foodie Table 770,Yes,Yes,2.9,3,Malleshwaram,Fine Dining,Mughlai,600,Dine-out
+771,Desi Cafe 771,No,Yes,3.7,321,Indiranagar,Fine Dining,Italian,500,Drinks & nightlife
+772,Urban Garden 772,No,Yes,3.7,34,JP Nagar,Bakery,Desserts,1000,Dine-out
+773,Taste Works 773,Yes,Yes,3.3,87,HSR Layout,Quick Bites,Fast Food,450,Delivery
+774,Desi Works 774,No,Yes,3.1,73,HSR Layout,Fine Dining,Desserts,600,Delivery
+775,Spice Kitchen 775,No,No,4.2,186,JP Nagar,Fine Dining,Desserts,1000,Desserts
+776,Wow Point 776,Yes,No,3.6,44,Rajajinagar,Dessert Parlour,"Desserts, Thai",2000,Desserts
+777,Street Table 777,Yes,Yes,3.1,23,BTM Layout,Cafe,"Fast Food, Bakery",1000,Buffet
+778,Royal Express 778,Yes,Yes,3.6,78,Indiranagar,Quick Bites,"Thai, Chinese",400,Desserts
+779,Foodie Cafe 779,Yes,No,4.3,24,Marathahalli,Quick Bites,Andhra,350,Desserts
+780,Green Kitchen 780,Yes,No,4.7,41,Koramangala,Delivery,Biryani,600,Pubs and bars
+781,Cafe Palace 781,No,No,3.7,25,Rajajinagar,Bakery,"Mughlai, Fast Food",500,Desserts
+782,Desi Express 782,No,Yes,2.1,132,HSR Layout,Bakery,Street Food,300,Delivery
+783,Tasty Express 783,Yes,Yes,4.2,41,BTM Layout,Quick Bites,Bakery,2000,Dine-out
+784,Royal Stop 784,No,Yes,3.7,91,Malleshwaram,Quick Bites,Pizza,700,Cafes
+785,Cafe Express 785,No,Yes,2.7,32,JP Nagar,Quick Bites,South Indian,200,Cafes
+786,Royal Bistro 786,No,No,4.2,15,BTM Layout,Quick Bites,"Pizza, North Indian",1000,Dine-out
+787,Desi Corner 787,No,No,3.9,14,BTM Layout,Fine Dining,South Indian,200,Cafes
+788,Cafe Table 788,No,No,4.0,52,Jayanagar,Quick Bites,Pizza,700,Pubs and bars
+789,Street House 789,Yes,No,2.7,174,Whitefield,Cafe,"Pizza, Cafe",450,Delivery
+790,Tasty Kitchen 790,Yes,No,3.2,24,JP Nagar,Casual Dining,Biryani,800,Dine-out
+791,Spice Kitchen 791,No,Yes,3.8,172,MG Road,Bakery,"Continental, Street Food, Desserts",350,Drinks & nightlife
+792,Grill Palace 792,No,No,3.0,58,Marathahalli,Casual Dining,"South Indian, Desserts, Biryani",350,Drinks & nightlife
+793,Foodie Bistro 793,No,No,4.0,109,Koramangala,Dessert Parlour,Biryani,300,Delivery
+794,Wow Table 794,Yes,Yes,3.8,37,BTM Layout,Food Court,Italian,600,Pubs and bars
+795,Royal Stop 795,No,No,3.2,59,Electronic City,Cafe,"Italian, Chinese",1500,Cafes
+796,Street Palace 796,No,Yes,3.0,2,MG Road,Cafe,Italian,600,Buffet
+797,Wow Palace 797,Yes,No,4.0,134,Whitefield,Delivery,"Mughlai, Italian",500,Cafes
+798,Curry Palace 798,Yes,No,2.2,19,Jayanagar,Bakery,"Italian, Desserts",600,Dine-out
+799,The Hungry Express 799,Yes,Yes,4.1,427,Rajajinagar,Bakery,"Cafe, Continental, North Indian",1500,Buffet
+800,Spice Kitchen 800,No,Yes,3.7,26,Jayanagar,Bakery,Andhra,300,Buffet
+801,Curry Express 801,No,No,3.6,215,Rajajinagar,Bakery,"Pizza, Fast Food",800,Drinks & nightlife
+802,Royal Palace 802,Yes,No,3.3,24,Koramangala,Quick Bites,Fast Food,700,Delivery
+803,Spice Express 803,No,Yes,3.4,21,JP Nagar,Food Court,"Thai, Pizza",300,Drinks & nightlife
+804,Taste Hub 804,No,Yes,3.8,277,Rajajinagar,Quick Bites,North Indian,400,Pubs and bars
+805,Curry Bistro 805,Yes,No,3.9,42,Rajajinagar,Dessert Parlour,Street Food,1500,Delivery
+806,Spice Corner 806,No,Yes,3.5,11,Marathahalli,Dessert Parlour,"Pizza, Thai, Fast Food",250,Delivery
+807,Royal Point 807,Yes,Yes,4.3,50,HSR Layout,Delivery,"Biryani, Fast Food",300,Pubs and bars
+808,Cafe Table 808,Yes,No,3.6,1330,Indiranagar,Cafe,"Street Food, Pizza",2000,Pubs and bars
+809,The Hungry Works 809,No,No,3.9,25,JP Nagar,Quick Bites,Thai,200,Pubs and bars
+810,Wow Express 810,No,Yes,3.4,172,Koramangala,Cafe,"Thai, Street Food",700,Cafes
+811,The Hungry Corner 811,Yes,Yes,3.8,12,HSR Layout,Quick Bites,Andhra,1200,Buffet
+812,Spice Darbar 812,Yes,Yes,3.7,27,BTM Layout,Food Court,"Pizza, Bakery",1500,Buffet
+813,Urban Table 813,Yes,No,4.9,160,Jayanagar,Casual Dining,South Indian,200,Buffet
+814,Street Palace 814,Yes,Yes,3.4,196,HSR Layout,Delivery,Mughlai,200,Cafes
+815,Tasty Corner 815,No,No,3.7,128,Marathahalli,Delivery,"Fast Food, North Indian, South Indian",300,Dine-out
+816,Wow Hub 816,Yes,Yes,4.0,23,Jayanagar,Quick Bites,"South Indian, Thai",2000,Pubs and bars
+817,Tasty Works 817,Yes,No,3.3,152,Electronic City,Quick Bites,"North Indian, Pizza",250,Desserts
+818,Taste Hub 818,No,Yes,3.5,36,MG Road,Cafe,"South Indian, Chinese, Fast Food",500,Pubs and bars
+819,Cafe Darbar 819,Yes,Yes,3.1,83,JP Nagar,Dessert Parlour,South Indian,600,Dine-out
+820,The Hungry Treats 820,Yes,No,4.9,18,Electronic City,Dessert Parlour,"North Indian, South Indian, Fast Food",600,Drinks & nightlife
+821,Green Stop 821,No,No,3.7,224,Indiranagar,Bakery,"Continental, Desserts",500,Drinks & nightlife
+822,Foodie Treats 822,No,Yes,3.6,85,Marathahalli,Cafe,Chinese,200,Buffet
+823,Urban Bistro 823,Yes,Yes,3.0,83,HSR Layout,Fine Dining,Biryani,500,Cafes
+824,Wow Treats 824,Yes,No,3.6,146,Jayanagar,Dessert Parlour,"Andhra, Biryani",250,Pubs and bars
+825,Taste Express 825,No,No,4.5,727,Whitefield,Bakery,"Biryani, Fast Food, Cafe",1000,Buffet
+826,Little Corner 826,No,Yes,4.1,75,Koramangala,Cafe,Italian,600,Drinks & nightlife
+827,Royal Garden 827,No,Yes,3.8,38,Electronic City,Fine Dining,Andhra,250,Cafes
+828,Little Darbar 828,Yes,Yes,3.9,40,Marathahalli,Bakery,Street Food,800,Pubs and bars
+829,Taste Express 829,No,No,3.8,203,Marathahalli,Fine Dining,"Continental, Italian",1000,Pubs and bars
+830,Street Table 830,Yes,No,3.7,170,Indiranagar,Food Court,"Desserts, North Indian",600,Desserts
+831,Spice House 831,No,No,4.6,48,Whitefield,Dessert Parlour,Andhra,500,Drinks & nightlife
+832,Wow Garden 832,Yes,No,2.3,29,BTM Layout,Cafe,Cafe,500,Dine-out
+833,Taste Stop 833,No,No,4.5,53,Whitefield,Casual Dining,"Cafe, Mughlai, Desserts",1000,Desserts
+834,Desi Express 834,No,No,3.1,32,JP Nagar,Casual Dining,Cafe,800,Buffet
+835,Desi Works 835,No,No,4.2,94,Electronic City,Casual Dining,"North Indian, Chinese",2000,Pubs and bars
+836,Foodie Bistro 836,No,No,3.5,37,Koramangala,Delivery,"Fast Food, Biryani, South Indian",500,Cafes
+837,Curry Express 837,Yes,Yes,3.4,21,Indiranagar,Fine Dining,Mughlai,400,Cafes
+838,Little Stop 838,Yes,No,4.7,39,MG Road,Food Court,Desserts,450,Delivery
+839,Foodie Palace 839,Yes,No,4.5,249,MG Road,Fine Dining,Pizza,600,Dine-out
+840,Tasty Treats 840,Yes,Yes,4.3,35,Marathahalli,Fine Dining,Bakery,600,Cafes
+841,Little Stop 841,Yes,No,4.0,53,Indiranagar,Delivery,"Italian, Fast Food",500,Delivery
+842,Grill Works 842,No,Yes,3.1,75,Indiranagar,Cafe,North Indian,400,Dine-out
+843,Green Bistro 843,No,No,2.9,179,Indiranagar,Dessert Parlour,Italian,250,Dine-out
+844,Foodie Garden 844,No,Yes,3.4,66,Jayanagar,Bakery,Biryani,1000,Drinks & nightlife
+845,Green Cafe 845,Yes,No,3.9,42,Malleshwaram,Bakery,"Chinese, North Indian",1000,Delivery
+846,Taste Hub 846,No,Yes,4.1,33,JP Nagar,Bakery,"Desserts, Bakery, Street Food",2000,Cafes
+847,Foodie Bistro 847,No,No,4.3,14,Indiranagar,Delivery,Chinese,1200,Pubs and bars
+848,Little Palace 848,Yes,No,3.8,379,HSR Layout,Food Court,"Italian, Andhra",400,Cafes
+849,Desi Stop 849,Yes,Yes,3.0,27,Jayanagar,Bakery,Chinese,350,Desserts
+850,Royal Express 850,Yes,Yes,4.0,65,Whitefield,Casual Dining,"Biryani, Thai",1000,Delivery
+851,Wow Treats 851,Yes,Yes,3.9,89,Koramangala,Casual Dining,Mughlai,700,Pubs and bars
+852,Street Garden 852,No,Yes,4.1,165,JP Nagar,Cafe,Fast Food,800,Desserts
+853,Cafe Table 853,Yes,No,4.0,42,Indiranagar,Delivery,"Andhra, Chinese, Continental",250,Dine-out
+854,Curry Palace 854,No,No,4.1,364,Malleshwaram,Food Court,Bakery,1500,Pubs and bars
+855,Royal Hub 855,Yes,Yes,3.6,20,Jayanagar,Bakery,"Pizza, Continental, Biryani",350,Desserts
+856,Taste Bistro 856,Yes,No,4.4,48,Malleshwaram,Cafe,Andhra,800,Delivery
+857,Street Darbar 857,Yes,No,2.3,127,Whitefield,Fine Dining,"Biryani, Cafe",1000,Desserts
+858,Wow Table 858,Yes,Yes,3.4,49,Rajajinagar,Delivery,"Fast Food, Andhra, Italian",200,Delivery
+859,Taste Stop 859,No,Yes,3.9,66,HSR Layout,Bakery,"Biryani, Italian",1000,Desserts
+860,Urban Table 860,No,No,4.2,35,HSR Layout,Dessert Parlour,Thai,500,Cafes
+861,Desi House 861,No,No,4.0,42,Jayanagar,Cafe,Thai,600,Pubs and bars
+862,Street Table 862,No,No,4.2,101,MG Road,Quick Bites,"Cafe, Pizza",500,Drinks & nightlife
+863,Grill Works 863,No,No,3.1,161,Marathahalli,Fine Dining,Desserts,250,Desserts
+864,Desi Cafe 864,Yes,No,3.4,122,Whitefield,Casual Dining,"North Indian, Bakery, Thai",1000,Desserts
+865,Urban Corner 865,No,Yes,3.9,343,HSR Layout,Quick Bites,Mughlai,400,Pubs and bars
+866,Cafe Stop 866,No,No,3.6,38,Malleshwaram,Quick Bites,"Mughlai, Biryani",1500,Delivery
+867,Green Kitchen 867,No,No,3.7,40,MG Road,Fine Dining,Mughlai,800,Cafes
+868,Spice Table 868,Yes,Yes,4.2,10,MG Road,Delivery,"Thai, Biryani",2000,Buffet
+869,Foodie Palace 869,Yes,Yes,3.0,18,MG Road,Dessert Parlour,"Continental, Italian",1200,Cafes
+870,Wow Point 870,Yes,Yes,4.3,302,MG Road,Bakery,Fast Food,300,Pubs and bars
+871,Curry Stop 871,Yes,Yes,3.6,46,Jayanagar,Dessert Parlour,"Cafe, South Indian, Continental",1200,Drinks & nightlife
+872,Curry Express 872,Yes,Yes,3.7,174,Malleshwaram,Delivery,"Biryani, Chinese",500,Desserts
+873,The Hungry Express 873,Yes,Yes,3.1,69,HSR Layout,Bakery,Biryani,1500,Cafes
+874,Spice Treats 874,No,Yes,4.3,90,Whitefield,Fine Dining,Street Food,1000,Drinks & nightlife
+875,Wow Palace 875,No,No,3.8,148,Jayanagar,Cafe,"Mughlai, Continental",1200,Buffet
+876,Street Bistro 876,Yes,No,1.9,107,Electronic City,Casual Dining,"North Indian, Thai",450,Buffet
+877,Foodie Cafe 877,No,No,3.3,8,JP Nagar,Quick Bites,Desserts,800,Dine-out
+878,Taste Treats 878,No,Yes,4.0,215,JP Nagar,Bakery,Street Food,300,Cafes
+879,The Hungry Kitchen 879,No,Yes,3.6,141,JP Nagar,Casual Dining,Fast Food,1200,Cafes
+880,The Hungry Table 880,No,No,4.7,203,Jayanagar,Dessert Parlour,"Andhra, Thai",400,Dine-out
+881,Desi Corner 881,No,No,4.8,114,Marathahalli,Bakery,Biryani,300,Buffet
+882,Spice Treats 882,Yes,Yes,3.7,11,Jayanagar,Quick Bites,Chinese,200,Drinks & nightlife
+883,Tasty Works 883,Yes,No,3.5,23,Marathahalli,Bakery,"Biryani, South Indian",600,Desserts
+884,Tasty Kitchen 884,Yes,Yes,4.9,45,HSR Layout,Dessert Parlour,"South Indian, Andhra",1200,Cafes
+885,Grill House 885,No,Yes,3.8,94,Marathahalli,Quick Bites,Pizza,700,Desserts
+886,Street Bistro 886,No,Yes,3.7,297,Koramangala,Dessert Parlour,Continental,1500,Drinks & nightlife
+887,Royal House 887,Yes,No,3.3,66,Indiranagar,Bakery,"South Indian, Biryani, Fast Food",800,Pubs and bars
+888,Tasty House 888,No,Yes,3.2,14,Rajajinagar,Bakery,"Mughlai, Cafe, Andhra",1000,Delivery
+889,Desi Cafe 889,Yes,Yes,3.3,52,Jayanagar,Fine Dining,"Pizza, Bakery, Street Food",300,Pubs and bars
+890,Foodie Express 890,No,Yes,3.4,27,Whitefield,Delivery,Pizza,250,Pubs and bars
+891,Foodie Darbar 891,Yes,Yes,2.8,50,MG Road,Dessert Parlour,"South Indian, North Indian",2000,Drinks & nightlife
+892,Street Cafe 892,No,No,2.7,116,Electronic City,Quick Bites,"Chinese, South Indian, Italian",600,Delivery
+893,Cafe Table 893,Yes,No,3.8,12,MG Road,Bakery,"South Indian, Andhra, Fast Food",700,Delivery
+894,Grill Corner 894,No,No,3.5,25,MG Road,Food Court,"Street Food, Biryani",250,Buffet
+895,Little Cafe 895,No,Yes,3.9,208,Malleshwaram,Quick Bites,Desserts,450,Desserts
+896,Cafe Garden 896,Yes,No,2.5,61,Indiranagar,Bakery,"Mughlai, Thai",700,Delivery
+897,Taste Garden 897,No,Yes,3.6,106,Jayanagar,Casual Dining,Chinese,1000,Dine-out
+898,Foodie Kitchen 898,Yes,No,3.8,25,BTM Layout,Dessert Parlour,Thai,200,Delivery
+899,Wow Cafe 899,Yes,Yes,3.5,24,BTM Layout,Quick Bites,Andhra,250,Pubs and bars
+900,Foodie Table 900,Yes,Yes,3.7,55,Malleshwaram,Dessert Parlour,Andhra,500,Delivery
+901,Tasty Table 901,No,No,4.9,51,Whitefield,Delivery,"Pizza, Cafe",1500,Cafes
+902,Foodie Point 902,No,Yes,3.2,12,Koramangala,Casual Dining,Pizza,800,Desserts
+903,Wow Garden 903,No,No,2.5,11,Rajajinagar,Bakery,North Indian,300,Delivery
+904,Urban Corner 904,No,No,3.9,90,Whitefield,Casual Dining,"Andhra, Street Food",450,Cafes
+905,Green Treats 905,Yes,Yes,2.7,133,Rajajinagar,Quick Bites,Andhra,200,Drinks & nightlife
+906,The Hungry Darbar 906,Yes,Yes,3.4,63,BTM Layout,Quick Bites,Biryani,2000,Desserts
+907,Cafe Treats 907,Yes,No,4.7,133,Koramangala,Bakery,"North Indian, South Indian",600,Dine-out
+908,Tasty House 908,No,Yes,3.5,22,Indiranagar,Food Court,Continental,400,Desserts
+909,Cafe Garden 909,No,Yes,2.3,26,BTM Layout,Bakery,"Pizza, Street Food",800,Cafes
+910,The Hungry Table 910,No,Yes,3.6,20,Rajajinagar,Food Court,"North Indian, Desserts, Thai",500,Desserts
+911,Wow Garden 911,No,No,3.6,58,Koramangala,Quick Bites,Cafe,800,Delivery
+912,Grill Table 912,Yes,Yes,3.6,28,Rajajinagar,Fine Dining,"Continental, Cafe, Fast Food",600,Dine-out
+913,Curry Cafe 913,No,No,3.8,84,Rajajinagar,Fine Dining,"Mughlai, Cafe, Chinese",400,Pubs and bars
+914,Wow Works 914,Yes,No,3.0,223,Indiranagar,Bakery,"Bakery, Andhra",300,Cafes
+915,Desi Garden 915,No,Yes,3.6,55,BTM Layout,Dessert Parlour,Continental,300,Cafes
+916,Street Express 916,Yes,No,4.2,68,JP Nagar,Quick Bites,Desserts,200,Cafes
+917,Urban Palace 917,No,No,4.3,72,HSR Layout,Cafe,"North Indian, Bakery",250,Dine-out
+918,Desi House 918,No,No,3.3,78,Marathahalli,Dessert Parlour,Cafe,400,Cafes
+919,Street Treats 919,Yes,Yes,3.0,60,BTM Layout,Cafe,"Andhra, Desserts, Street Food",1000,Buffet
+920,Taste Kitchen 920,Yes,Yes,3.7,44,Whitefield,Cafe,"Street Food, Bakery",2000,Pubs and bars
+921,Wow Treats 921,Yes,No,3.6,8,Marathahalli,Bakery,Thai,450,Drinks & nightlife
+922,Curry Corner 922,No,No,3.3,59,Indiranagar,Delivery,Chinese,1000,Desserts
+923,Tasty Express 923,Yes,No,3.8,19,Marathahalli,Quick Bites,"Bakery, Thai",200,Buffet
+924,Little Cafe 924,No,No,4.5,22,HSR Layout,Quick Bites,Fast Food,1200,Pubs and bars
+925,Foodie Table 925,Yes,No,4.3,83,MG Road,Bakery,"Biryani, Bakery",350,Pubs and bars
+926,Royal Darbar 926,Yes,No,3.3,322,Koramangala,Cafe,"Bakery, Mughlai",450,Buffet
+927,Spice Garden 927,Yes,No,2.9,136,Koramangala,Quick Bites,Fast Food,500,Dine-out
+928,Foodie Table 928,No,No,4.4,27,Rajajinagar,Dessert Parlour,Mughlai,1200,Drinks & nightlife
+929,Wow Garden 929,No,Yes,4.6,42,BTM Layout,Delivery,"Fast Food, Thai, North Indian",2000,Dine-out
+930,Street Darbar 930,No,No,3.9,70,Rajajinagar,Food Court,"Bakery, Street Food",1000,Pubs and bars
+931,Taste Bistro 931,Yes,Yes,3.6,122,MG Road,Quick Bites,Thai,400,Dine-out
+932,Desi Cafe 932,No,No,4.2,9,Whitefield,Casual Dining,"Italian, Continental",250,Buffet
+933,Taste Kitchen 933,No,No,4.5,10,Malleshwaram,Casual Dining,"Street Food, Italian",350,Pubs and bars
+934,Spice Darbar 934,No,Yes,4.4,168,Rajajinagar,Cafe,Italian,1000,Desserts
+935,Tasty Hub 935,Yes,No,3.0,36,Malleshwaram,Delivery,Street Food,1200,Delivery
+936,Taste Works 936,Yes,No,3.0,44,HSR Layout,Cafe,Italian,1000,Delivery
+937,Urban Corner 937,No,No,3.5,119,Malleshwaram,Food Court,"Street Food, Continental",2000,Pubs and bars
+938,Cafe Hub 938,No,Yes,4.6,220,BTM Layout,Cafe,"South Indian, Thai",200,Delivery
+939,Grill Treats 939,No,No,3.3,44,Rajajinagar,Food Court,"Desserts, Biryani, Street Food",700,Desserts
+940,Taste Corner 940,Yes,Yes,2.6,24,BTM Layout,Bakery,"Thai, Cafe, Pizza",500,Cafes
+941,Cafe House 941,Yes,No,4.3,274,Malleshwaram,Quick Bites,"Desserts, Andhra, Thai",250,Dine-out
+942,Urban Bistro 942,No,Yes,2.9,30,Electronic City,Dessert Parlour,Thai,250,Buffet
+943,The Hungry Express 943,No,No,3.7,72,BTM Layout,Casual Dining,"Chinese, South Indian",450,Pubs and bars
+944,Street Table 944,No,Yes,3.2,83,Jayanagar,Dessert Parlour,Chinese,1500,Cafes
+945,Urban Point 945,No,Yes,3.4,53,JP Nagar,Cafe,Andhra,1200,Pubs and bars
+946,Street Bistro 946,No,No,4.1,54,MG Road,Bakery,Biryani,600,Pubs and bars
+947,Desi Treats 947,Yes,No,3.4,48,Rajajinagar,Bakery,"Andhra, Street Food, Chinese",1500,Cafes
+948,Green Table 948,No,No,3.6,37,MG Road,Fine Dining,"Fast Food, South Indian, Bakery",800,Dine-out
+949,Curry Corner 949,No,Yes,3.5,270,Malleshwaram,Casual Dining,Mughlai,600,Dine-out
+950,Green Palace 950,Yes,Yes,4.1,40,Marathahalli,Casual Dining,"Bakery, Thai, Pizza",400,Dine-out
+951,Little Table 951,Yes,Yes,4.2,39,Marathahalli,Quick Bites,"Continental, Bakery",600,Buffet
+952,Urban Darbar 952,Yes,No,4.5,79,Marathahalli,Fine Dining,Bakery,350,Desserts
+953,Foodie Corner 953,Yes,No,3.6,85,MG Road,Casual Dining,"North Indian, Cafe",2000,Pubs and bars
+954,Urban Point 954,Yes,Yes,2.7,17,Whitefield,Dessert Parlour,"Fast Food, Biryani",400,Cafes
+955,The Hungry Garden 955,Yes,Yes,2.9,62,Rajajinagar,Quick Bites,Italian,1500,Buffet
+956,Foodie Kitchen 956,Yes,No,4.8,508,JP Nagar,Quick Bites,"Fast Food, Chinese",200,Desserts
+957,Green Hub 957,Yes,Yes,4.1,90,Electronic City,Delivery,Italian,500,Desserts
+958,Spice Bistro 958,Yes,No,2.5,31,BTM Layout,Food Court,"Bakery, Desserts",500,Buffet
+959,The Hungry Point 959,Yes,Yes,3.2,29,Electronic City,Cafe,"North Indian, Biryani",1000,Cafes
+960,Cafe Kitchen 960,No,No,3.6,34,Rajajinagar,Delivery,"Mughlai, Bakery",300,Pubs and bars
+961,Taste Garden 961,Yes,Yes,2.4,115,Marathahalli,Bakery,Fast Food,700,Buffet
+962,Spice House 962,No,Yes,3.0,69,BTM Layout,Dessert Parlour,Andhra,600,Dine-out
+963,Curry Cafe 963,No,No,4.9,21,HSR Layout,Dessert Parlour,Andhra,1000,Buffet
+964,Urban Garden 964,Yes,No,2.1,41,Malleshwaram,Cafe,Pizza,700,Pubs and bars
+965,Green Palace 965,No,No,4.4,386,Marathahalli,Fine Dining,Pizza,700,Drinks & nightlife
+966,Green Cafe 966,No,No,2.9,89,JP Nagar,Fine Dining,Mughlai,400,Cafes
+967,Grill Treats 967,Yes,Yes,3.4,49,Koramangala,Casual Dining,"Street Food, Fast Food",200,Drinks & nightlife
+968,Taste Kitchen 968,No,No,4.9,12,Rajajinagar,Cafe,Biryani,700,Dine-out
+969,Tasty Stop 969,No,Yes,3.9,87,MG Road,Fine Dining,Thai,2000,Desserts
+970,Cafe Bistro 970,Yes,Yes,4.4,60,HSR Layout,Bakery,Andhra,1500,Buffet
+971,Green Kitchen 971,No,No,3.9,36,Electronic City,Dessert Parlour,Pizza,200,Pubs and bars
+972,Cafe Table 972,Yes,No,3.9,38,Malleshwaram,Delivery,"Continental, Thai, Cafe",450,Buffet
+973,Curry Express 973,No,Yes,4.1,37,Electronic City,Bakery,Andhra,1000,Cafes
+974,Grill Corner 974,Yes,Yes,3.9,53,Malleshwaram,Cafe,"Continental, Mughlai",1200,Cafes
+975,Green Stop 975,Yes,No,4.4,51,Rajajinagar,Casual Dining,Thai,800,Drinks & nightlife
+976,Foodie Cafe 976,No,Yes,2.5,192,Rajajinagar,Casual Dining,"Desserts, Street Food, Italian",1000,Pubs and bars
+977,Urban Cafe 977,No,No,3.1,28,Marathahalli,Bakery,Biryani,2000,Desserts
+978,Spice Express 978,Yes,Yes,3.3,215,MG Road,Bakery,Desserts,1500,Delivery
+979,Street Palace 979,No,Yes,2.3,1258,Koramangala,Delivery,Biryani,350,Drinks & nightlife
+980,The Hungry Kitchen 980,Yes,No,4.4,68,Rajajinagar,Cafe,"South Indian, Continental",350,Buffet
+981,Green Kitchen 981,No,No,3.7,72,BTM Layout,Delivery,"Biryani, Bakery",200,Delivery
+982,Desi Palace 982,Yes,Yes,4.0,104,Electronic City,Bakery,Andhra,450,Pubs and bars
+983,Spice Table 983,Yes,Yes,4.1,59,Koramangala,Food Court,Mughlai,600,Delivery
+984,The Hungry Palace 984,No,Yes,3.6,46,Rajajinagar,Food Court,Andhra,200,Buffet
+985,Curry Garden 985,Yes,No,3.6,169,MG Road,Cafe,Mughlai,200,Dine-out
+986,Foodie Treats 986,Yes,No,4.1,2,MG Road,Cafe,"Continental, Andhra",800,Delivery
+987,Urban Kitchen 987,No,Yes,4.1,66,Koramangala,Cafe,"Mughlai, Bakery, North Indian",600,Dine-out
+988,Tasty Garden 988,Yes,No,3.7,37,BTM Layout,Bakery,Thai,800,Cafes
+989,Royal Express 989,Yes,Yes,4.4,140,Electronic City,Food Court,Chinese,1500,Dine-out
+990,Cafe Express 990,Yes,Yes,3.2,82,Electronic City,Fine Dining,"Bakery, Fast Food, Italian",800,Delivery
+991,Green Point 991,Yes,Yes,3.1,13,Marathahalli,Casual Dining,North Indian,700,Desserts
+992,Tasty Hub 992,Yes,Yes,3.3,129,Rajajinagar,Bakery,Continental,350,Drinks & nightlife
+993,Foodie Bistro 993,No,No,4.3,91,Whitefield,Cafe,"Cafe, Street Food, Pizza",450,Desserts
+994,Wow Hub 994,Yes,Yes,4.2,91,BTM Layout,Delivery,Cafe,350,Cafes
+995,Green Garden 995,No,No,3.3,84,Whitefield,Casual Dining,"Pizza, Bakery",2000,Delivery
+996,Royal Express 996,Yes,Yes,4.2,116,BTM Layout,Delivery,South Indian,450,Drinks & nightlife
+997,Green Hub 997,Yes,Yes,4.5,110,Jayanagar,Quick Bites,"Thai, Bakery",450,Cafes
+998,Royal Hub 998,No,Yes,3.9,159,Koramangala,Quick Bites,Pizza,300,Pubs and bars
+999,Foodie Cafe 999,Yes,Yes,3.7,22,Indiranagar,Fine Dining,Thai,250,Cafes
+1000,Little Corner 1000,No,No,3.6,25,Marathahalli,Food Court,Cafe,350,Drinks & nightlife

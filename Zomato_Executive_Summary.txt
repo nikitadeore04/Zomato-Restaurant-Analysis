@@ -1,0 +1,24 @@
+
+ZOMATO RESTAURANT ANALYSIS
+
+Total Restaurants: 1000
+Total Cities: 12
+Average Cost for Two: 743.85
+
+Top 5 Cuisines:
+cuisines
+Andhra      60
+Thai        40
+Cafe        40
+Desserts    38
+Chinese     37
+Name: count, dtype: int64
+
+Online Order Analysis:
+online_order
+Yes    508
+No     492
+Name: count, dtype: int64
+
+This project analyzes restaurant ratings,
+customer preferences, pricing and delivery.
